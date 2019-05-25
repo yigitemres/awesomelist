@@ -1,6 +1,6 @@
 [[https://github.com/octobanana/peaclock][peaclock]] - A responsive and customizable clock, timer, and stopwatch for the terminal.
 
-[[https://github.com/zfsonlinux/zfs - ZFS on Linux][zfs - ZFS on Linux]] - the official OpenZFS implementation for Linux.
+[[https://github.com/zfsonlinux/zfs][zfs]] - the official OpenZFS implementation for Linux
 
 [[https://github.com/Malabarba/aggressive-indent-mode][aggressive-indent-mode]] - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
 
@@ -32,9 +32,9 @@
 
 [[https://github.com/sabof/project-explorer][project-explorer]] -  A project explorer sidebar
 
-[[https://github.com/seagle0128/.emacs.d - Centaur Emacs][.emacs.d - Centaur Emacs]] - A Fancy and Fast Emacs Configuration
+[[https://github.com/seagle0128/.emacs.d][Centaur Emacs]] - A Fancy and Fast Emacs Configuration
 
-[[https://github.com/vermiculus/magithub - **This project is being (mostly) migrated into Forge!**][magithub - **This project is being (mostly) migrated into Forge!**]] -- Magit-based interfaces to GitHub
+[[https://github.com/vermiculus/magithub][magithub]] -- Magit-based interfaces to GitHub
 
 [[https://github.com/alphapapa/magit-todos][magit-todos]] - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 
@@ -62,7 +62,7 @@
 
 [[https://github.com/rejeep/prodigy.el][prodigy.el]] - Manage external services from within Emacs
 
-[[https://github.com/Alexander-Miller/treemacs][treemacs]] - (null)
+[[https://github.com/Alexander-Miller/treemacs][treemacs]] - A tree layout file explorer for Emacs
 
 [[https://github.com/polymode/polymode][polymode]] - Framework for Multiple Major Modes in Emacs (core library)
 
@@ -118,7 +118,7 @@
 
 [[https://github.com/google/autofdo][autofdo]] - AutoFDO
 
-[[https://github.com/microsoft/terminal - The new Windows Terminal, and the original Windows console host][terminal - The new Windows Terminal, and the original Windows console host]] -- all in the same place!
+[[https://github.com/microsoft/terminal][msterminal]] -  The new Windows Terminal, and the original Windows console host all in the same place!
 
 [[https://github.com/microsoft/msbuild][msbuild]] - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
 
@@ -138,7 +138,7 @@
 
 [[https://github.com/kdeloach/workman][workman]] - Workman keyboard layout
 
-[[https://github.com/abo-abo/swiper - Ivy - a generic completion frontend for Emacs, Swiper][swiper - Ivy - a generic completion frontend for Emacs, Swiper]] - isearch with an overview, and more. Oh, man!
+[[https://github.com/abo-abo/swiper][swiper & Ivy]] - Ivy: A generic completion frontend for Emacs. Swiper: isearch with an overview, and more. Oh, man!
 
 [[https://github.com/kennethreitz/requests-html][requests-html]] - Pythonic HTML Parsing for Humans™
 
@@ -268,7 +268,7 @@
 
 [[https://github.com/posquit0/Awesome-CV][Awesome-CV]] - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
-[[https://github.com/nmap/nmap - Nmap][nmap - Nmap]] - the Network Mapper. Github mirror of official SVN repository.
+[[https://github.com/nmap/nmap][nmap]] - the Network Mapper. Github mirror of official SVN repository.
 
 [[https://github.com/digininja/CeWL][CeWL]] - CeWL is a Custom Word List Generator
 
@@ -352,7 +352,7 @@
 
 [[https://github.com/radareorg/radeco][radeco]] - radare decompiler tool based on radeco-lib
 
-[[https://github.com/dweinstein/awesome-frida - Awesome Frida][awesome-frida - Awesome Frida]] - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
+[[https://github.com/dweinstein/awesome-frida][Awesome Frida]] - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 
 [[https://github.com/bayandin/awesome-awesomeness][awesome-awesomeness]] - A curated list of awesome awesomeness
 
@@ -750,7 +750,7 @@
 
 [[https://github.com/mzucker/noteshrink][noteshrink]] - Convert scans of handwritten notes to beautiful, compact PDFs
 
-[[https://github.com/berzerk0/Probable-Wordlists - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing][Probable-Wordlists - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing]] - make sure your passwords aren't popular!
+[[https://github.com/berzerk0/Probable-Wordlists][Probable-Wordlists]] - make sure your passwords aren't popular!
 
 [[https://github.com/plotly/dash][dash]] - Analytical Web Apps for Python. No JavaScript Required.
 
