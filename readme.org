@@ -1,3 +1,5 @@
+[[https://github.com/mbadolato/iTerm2-Color-Schemes][iTerm2-Color-Schemes]] - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, compatible with Microsoft's terminal http://www.iterm2colorschemes.com
+
 [[https://github.com/octobanana/peaclock][peaclock]] - A responsive and customizable clock, timer, and stopwatch for the terminal.
 
 [[https://github.com/zfsonlinux/zfs][zfs]] - the official OpenZFS implementation for Linux
