@@ -1,3 +1,9 @@
+[[https://github.com/magit/forge][forge]] - Work with Git forges from the comfort of Magit 
+
+[[https://github.com/magit/magit][magit]] - It's Magit! A Git porcelain inside Emacs. https://magit.vc 
+
+[[https://github.com/lukesampson/concfg][concfg]] - Import / export Windows console settings
+
 [[https://github.com/mbadolato/iTerm2-Color-Schemes][iTerm2-Color-Schemes]] - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, compatible with Microsoft's terminal http://www.iterm2colorschemes.com
 
 [[https://github.com/octobanana/peaclock][peaclock]] - A responsive and customizable clock, timer, and stopwatch for the terminal.
