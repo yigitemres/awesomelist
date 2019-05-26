@@ -502,7 +502,7 @@
 
 [[https://github.com/intel-go/bytebuf][bytebuf]] - Example of how CL133375 can be utilized to mitigate Go escape analysis limitations.
 
-[[https://github.com/dubreuia/intellij-plugin-save-actions,  Supports configurable, Eclipse like, save actions, including \organize imports\][intellij-plugin-save-actions,  Supports configurable, Eclipse like, save actions, including \organize imports\]] -\reformat code\ and \rearrange code\.
+[[https://github.com/dubreuia/intellij-plugin-save-actions][intellij-plugin-save-actionsconfigurable]] - Supports configurable, Eclipse like, save actions, including "organize imports", "reformat code" and "rearrange code".
 
 [[https://github.com/amix/vimrc][vimrc]] - The ultimate Vim configuration: vimrc
 
