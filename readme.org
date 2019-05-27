@@ -69,7 +69,6 @@
 	- [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide][mastering-emacs-in-one-year-guide]] - Be great at emacs in one year
 
 
-
 ** Vim
 *** Packages
 	- [[https://github.com/tpope/vim-dadbod][vim-dadbod]] - dadbod.vim: Modern database interface for Vim
@@ -232,9 +231,10 @@
    - [[https://github.com/drathier/stack-overflow-import][stack-overflow-import]] - Import arbitrary code from Stack Overflow as Python modules.
    - [[https://github.com/kennethreitz/requests-html][requests-html]] - Pythonic HTML Parsing for Humans™
    - [[https://github.com/kennethreitz/requests][requests]] - Python HTTP Requests for Humans™ ✨🍰✨
-   - [[https://github.com/Nuitka/Nuitka][Nuitka]] - Nuitka is a Python compiler written in Python.  It's fully compatible with Python
-	 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it your Python app, it does a lot of clever
+   - [[https://github.com/Nuitka/Nuitka][Nuitka]] - Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6,
+	 2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it your Python app, it does a lot of clever
 	 things, and spits out an executable or extension module.
+
    - [[https://github.com/3b1b/manim][manim]] - Animation engine for explanatory math videos
    - [[https://github.com/AtsushiSakai/PythonRobotics][PythonRobotics]] - Python sample codes for robotics algorithms.
    - [[https://github.com/ChengBinJin/MRI-to-CT-DCNN-TensorFlow][MRI-to-CT-DCNN-TensorFlow]] - This repository is the implementations of the paper "MR-based
