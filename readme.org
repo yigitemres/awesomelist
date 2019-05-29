@@ -1,7 +1,6 @@
 * Awesome List
 ** Emacs
 *** Packages
-	- [[https://github.com/joaotavora/eglot][eglot]] - A client for Language Server Protocol servers
 	- [[https://github.com/abo-abo/ace-link][ace-link]] - Quickly follow links in Emacs
 	- [[https://github.com/Malabarba/aggressive-indent-mode][aggressive-indent-mode]] - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
 	- [[https://github.com/DarwinAwardWinner/amx][amx]] - An alternative M-x interface for Emacs.
@@ -12,7 +11,9 @@
 	- [[https://github.com/emacs-lsp/dap-mode][dap-mode]] - Emacs :heart: Debug Adapter Protocol
 	- [[https://github.com/Fuco1/dired-hacks][dired-hacks]] - Collection of useful dired additions
 	- [[https://github.com/hlissner/doom-emacs][doom-emacs]] - An Emacs configuration for the stubborn martian vimmer
+	- [[https://github.com/joaotavora/eglot][eglot]] - A client for Language Server Protocol servers
 	- [[https://github.com/skeeto/elfeed][elfeed]] - An Emacs web feeds client
+	- [[https://github.com/dimitri/el-get][el-get]] - Manage the external elisp bits and pieces upon which you depend!
 	- [[https://github.com/jorgenschaefer/elpy][elpy]] - Emacs Python Development Environment
 	- [[https://github.com/kiwanami/emacs-calfw][emacs-calfw]] - A calendar framework for Emacs
 	- [[https://github.com/jaypei/emacs-neotree][emacs-neotree]] - A emacs tree plugin like NerdTree for Vim.
@@ -23,21 +24,28 @@
 	- [[https://github.com/technomancy/find-file-in-project][find-file-in-project]] - Quick access to project files in Emacs
 	- [[https://github.com/flycheck/flycheck][flycheck]] - On the fly syntax checking for GNU Emacs
 	- [[https://github.com/magit/forge][forge]] - Work with Git forges from the comfort of Magit
+	- [[https://github.com/bling/fzf.el][fzf.el]] - A front-end for fzf
 	- [[https://github.com/noctuid/general.el][general.el]] - More convenient key definitions in emacs
+	- [[https://github.com/leoliu/ggtags][ggtags]] - Emacs frontend to GNU Global source code tagging system.
 	- [[https://github.com/emacs-helm/helm][helm]] - Emacs incremental completion and selection narrowing framework
 	- [[https://github.com/abo-abo/hydra][hydra]] - make Emacs bindings that stick around
 	- [[https://github.com/DarwinAwardWinner/ido-completing-read-plus][ido-completing-read-plus]] - Fancy completion all over Emacs, not just for buffers and files.
 	- [[https://github.com/mogenslund/liquid][liquid]] - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
 	- [[https://github.com/emacs-lsp/lsp-mode][lsp-mode]] - Emacs client/library for the Language Server Protocol
 	- [[https://github.com/magit/magit][magit]] - It's Magit! A Git porcelain inside Emacs. https://magit.vc
+	- [[https://github.com/alphapapa/magit-todos][magit-todos]] - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
 	- [[https://github.com/magnars/multiple-cursors.el][multiple-cursors.el]] - Multiple cursors for emacs.
+	- [[https://github.com/felipelalli/org-sort-tasks][org-sort-tasks]] - Functions to keep TODO tasks in orgmode sorted and organized.
+	- [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] - Supercharge your Org daily/weekly agenda by grouping items
 	- [[https://github.com/gregsexton/origami.el][origami.el]] - A folding minor mode for Emacs
-	- [[https://github.com/bling/fzf.el][fzf.el]] - A front-end for fzf
+	- [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]] - A carefully crafted Org exporter back-end for Hugo
 	- [[https://github.com/polymode/polymode][polymode]] - Framework for Multiple Major Modes in Emacs (core library)
 	- [[https://github.com/bbatsov/prelude][prelude]] - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 	- [[https://github.com/rejeep/prodigy.el][prodigy.el]] - Manage external services from within Emacs
 	- [[https://github.com/bbatsov/projectile][projectile]] - Project Interaction Library for Emacs
+	- [[https://github.com/ralesi/ranger.el][ranger.el]] - Bringing the goodness of ranger to dired!
 	- [[https://github.com/remacs/remacs][remacs]] - Rust :heart: Emacs
+	- [[https://github.com/Kungsgeten/ryo-modal][ryo-modal]] - Roll your own modal mode
 	- [[https://github.com/Fuco1/smartparens][smartparens]] - Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
 	- [[https://github.com/raxod502/straight.el][straight.el]] - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 	- [[https://github.com/zk-phi/sublimity][sublimity]] - [emacs] smooth-scrolling and minimap like sublime editor
@@ -46,13 +54,6 @@
 	- [[https://github.com/jwiegley/use-package][use-package]] - A use-package declaration for simplifying your .emacs
 	- [[https://github.com/joostkremers/visual-fill-column][visual-fill-column]] - Emacs mode for wrapping visual-line-mode buffers at fill-column.
 	- [[https://github.com/cyrus-and/zoom][zoom]] - Fixed and automatic balanced window layout for Emacs
-	- [[https://github.com/Kungsgeten/ryo-modal][ryo-modal]] - Roll your own modal mode
-	- [[https://github.com/alphapapa/magit-todos][magit-todos]] - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
-	- [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] - Supercharge your Org daily/weekly agenda by grouping items
-	- [[https://github.com/felipelalli/org-sort-tasks][org-sort-tasks]] - Functions to keep TODO tasks in orgmode sorted and organized.
-	- [[https://github.com/ralesi/ranger.el][ranger.el]] - Bringing the goodness of ranger to dired!
-	- [[https://github.com/dimitri/el-get][el-get]] - Manage the external elisp bits and pieces upon which you depend!
-	- [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]] - A carefully crafted Org exporter back-end for Hugo
 *** Themes
 	- [[https://github.com/jcaw/theme-magic][theme-magic]] - 🎨 Apply your Emacs theme to the rest of Linux, using magic.
 	- [[https://github.com/greduan/emacs-theme-gruvbox][emacs-theme-gruvbox]] - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
