@@ -190,13 +190,12 @@
 	- [[https://github.com/doitsujin/dxvk][dxvk]] - Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
 	- [[https://github.com/zsh-users/zsh][zsh]] - Mirror of the Z shell source code repository.
 *** Cross Platform Packages
-	- [[https://github.com/atom/atom][atom]] - :atom: The hackable text editor
-	- [[https://github.com/ytdl-org/youtube-dl][youtube-dl]] - Command-line program to download videos from YouTube.com and other video sites
-	- [[https://github.com/ziahamza/webui-aria2][webui-aria2]] - The aim for this project is to create the worlds best and hottest interface to
-	  interact with aria2. Very simple to use, just download and open index.html in any web
-	  browser.
 	- [[https://github.com/jwilm/alacritty][alacritty]] - A cross-platform, GPU-accelerated terminal emulator
+	- [[https://github.com/atom/atom][atom]] - :atom: The hackable text editor
 	- [[https://github.com/BoostIO/Boostnote][Boostnote]] - A markdown editor for developers on Mac, Windows and Linux.
+	- [[https://github.com/curl/curl][curl]] - A command line tool and library for transferring data with URL syntax, supporting
+	  HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP,
+	  SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features https://curl.haxx.se/
 	- [[https://github.com/spf13/dagobah][dagobah]] -  dagobah is an awesome RSS feed aggregator & reader written in Go inspired by
 	  planet
 	- [[https://github.com/DynamoRIO/drmemory][drmemory]] - Memory Debugger for Windows, Linux, Mac, and Android
@@ -207,14 +206,18 @@
 	- [[https://github.com/Code-Hex/Neo-cowsay][Neo-cowsay]] - 🐮 cowsay is reborn. Neo Cowsay written in Go. This cowsay extended the original
 	  and added fun more options. And it can be used as a library.
 	- [[https://github.com/dylanaraps/neofetch][neofetch]] - 🖼️  A command-line system information tool written in bash 3.2+
-	- [[https://github.com/equalsraf/neovim-qt][neovim-qt]] - Neovim client library and GUI, in Qt5.
 	- [[https://github.com/neovim/neovim][neovim]] - Vim-fork focused on extensibility and usability
+	- [[https://github.com/equalsraf/neovim-qt][neovim-qt]] - Neovim client library and GUI, in Qt5.
 	- [[https://github.com/OpenBoardView/OpenBoardView][OpenBoardView]] - View .brd files
 	- [[https://gitlab.com/akihe/radamsa][radamsa]] - a general-purpose fuzzer
 	- [[https://github.com/BurntSushi/ripgrep][ripgrep]] - ripgrep recursively searches directories for a regex pattern
 	- [[https://github.com/Eugeny/terminus][terminus]] - A terminal for a more modern age
 	- [[https://github.com/FredrikNoren/ungit][ungit]] - The easiest way to use git. On any platform. Anywhere.
+	- [[https://github.com/ziahamza/webui-aria2][webui-aria2]] - The aim for this project is to create the worlds best and hottest interface to
+	  interact with aria2. Very simple to use, just download and open index.html in any web
+	  browser.
 	- [[https://github.com/Valloric/ycmd][ycmd]] - A code-completion & code-comprehension server
+	- [[https://github.com/ytdl-org/youtube-dl][youtube-dl]] - Command-line program to download videos from YouTube.com and other video sites
 *** MS Win
 	- [[https://github.com/DDoSolitary/LxRunOffline][LxRunOffline]] - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 	- [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]] - A prompt theming engine for Powershell running in ConEmu
