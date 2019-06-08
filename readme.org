@@ -1,25 +1,33 @@
+#+TODO: TODO(t) ALL(a) INSTALL(i) CONFIG(c) ADDLIST(l) | DONE(d)
+
 * Awesome List
 ** Emacs
 *** Packages
 	- [[https://github.com/abo-abo/ace-link][ace-link]] - Quickly follow links in Emacs
-	- [[https://github.com/Malabarba/aggressive-indent-mode][aggressive-indent-mode]] - Emacs minor mode that keeps your code always indented. More reliable than electric-indent-mode.
+	- [[https://github.com/Malabarba/aggressive-indent-mode][aggressive-indent-mode]] - Emacs minor mode that keeps your code always
+	  indented. More reliable than electric-indent-mode.
 	- [[https://github.com/DarwinAwardWinner/amx][amx]] - An alternative M-x interface for Emacs.
 	- [[https://github.com/jyp/boon][boon]] - Ergonomic Command Mode for Emacs
 	- [[https://github.com/plexus/chemacs][chemacs]] - Emacs profile switcher
-	- [[https://github.com/clojure-emacs/cider][cider]] - The Clojure Interactive Development Environment that Rocks for Emacs
+	- [[https://github.com/clojure-emacs/cider][cider]] - The Clojure Interactive Development Environment that Rocks for
+	  Emacs
 	- [[https://github.com/company-mode/company-mode][company-mode]] - Modular in-buffer completion framework for Emacs
-	- [[https://github.com/emacs-lsp/dap-mode][dap-mode]] - Emacs :heart: Debug Adapter Protocol
+	- [[https://github.com/emacs-lsp/dap-mode][dap-mode]] - Emacs Debug Adapter Protocol
+	- [[https://github.com/dgutov/diff-hl][diff-hl]] - Emacs package for highlighting uncommitted changes
 	- [[https://github.com/Fuco1/dired-hacks][dired-hacks]] - Collection of useful dired additions
 	- [[https://github.com/hlissner/doom-emacs][doom-emacs]] - An Emacs configuration for the stubborn martian vimmer
 	- [[https://github.com/joaotavora/eglot][eglot]] - A client for Language Server Protocol servers
 	- [[https://github.com/skeeto/elfeed][elfeed]] - An Emacs web feeds client
 	- [[https://github.com/dimitri/el-get][el-get]] - Manage the external elisp bits and pieces upon which you depend!
+	- [[https://github.com/raxod502/el-patch][el-patch]] - Future-proof your Emacs Lisp customizations!
 	- [[https://github.com/jorgenschaefer/elpy][elpy]] - Emacs Python Development Environment
 	- [[https://github.com/kiwanami/emacs-calfw][emacs-calfw]] - A calendar framework for Emacs
 	- [[https://github.com/jaypei/emacs-neotree][emacs-neotree]] - A emacs tree plugin like NerdTree for Vim.
-	- [[https://github.com/justbur/emacs-which-key][emacs-which-key]] - Emacs package that displays available keybindings in popup
+	- [[https://github.com/justbur/emacs-which-key][emacs-which-key]] - Emacs package that displays available keybindings in
+	  popup
 	- [[https://github.com/emacs-evil/evil][evil]] - The extensible vi layer for Emacs.
-	- [[https://github.com/magnars/expand-region.el][expand-region.el]] - Emacs extension to increase selected region by semantic units.
+	- [[https://github.com/magnars/expand-region.el][expand-region.el]] - Emacs extension to increase selected region by semantic
+	  units.
 	- [[https://github.com/ch11ng/exwm][exwm]] - Emacs X Window Manager
 	- [[https://github.com/technomancy/find-file-in-project][find-file-in-project]] - Quick access to project files in Emacs
 	- [[https://github.com/flycheck/flycheck][flycheck]] - On the fly syntax checking for GNU Emacs
@@ -29,535 +37,757 @@
 	- [[https://github.com/leoliu/ggtags][ggtags]] - Emacs frontend to GNU Global source code tagging system.
 	- [[https://github.com/emacs-helm/helm][helm]] - Emacs incremental completion and selection narrowing framework
 	- [[https://github.com/abo-abo/hydra][hydra]] - make Emacs bindings that stick around
-	- [[https://github.com/DarwinAwardWinner/ido-completing-read-plus][ido-completing-read-plus]] - Fancy completion all over Emacs, not just for buffers and files.
-	- [[https://github.com/mogenslund/liquid][liquid]] - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
+	- [[https://github.com/DarwinAwardWinner/ido-completing-read-plus][ido-completing-read-plus]] - Fancy completion all over Emacs, not just for
+	  buffers and files.
+	- [[https://github.com/tumashu/ivy-posframe][ivy-posframe]] - ivy-posframe is a ivy extension, which let ivy use posframe
+	  to show its candidate menu.
+	- [[https://github.com/mogenslund/liquid][liquid]] - Clojure Text Editor, for editing clojure code and
+	  markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
 	- [[https://github.com/emacs-lsp/lsp-mode][lsp-mode]] - Emacs client/library for the Language Server Protocol
-	- [[https://github.com/magit/magit][magit]] - It's Magit! A Git porcelain inside Emacs. https://magit.vc
-	- [[https://github.com/alphapapa/magit-todos][magit-todos]] - Show source files' TODOs (and FIXMEs, etc) in Magit status buffer
+	- [[https://github.com/magit/magit][magit]] - It's Magit! A Git porcelain inside Emacs.
+	- [[https://github.com/alphapapa/magit-todos][magit-todos]] - Show source files' TODOs (and FIXMEs, etc) in Magit status
+	  buffer
 	- [[https://github.com/magnars/multiple-cursors.el][multiple-cursors.el]] - Multiple cursors for emacs.
-	- [[https://github.com/felipelalli/org-sort-tasks][org-sort-tasks]] - Functions to keep TODO tasks in orgmode sorted and organized.
-	- [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] - Supercharge your Org daily/weekly agenda by grouping items
+	- [[https://github.com/TeMPOraL/nyan-mode][nyan-mode]] - Nyan Cat for Emacs! Nyanyanyanyanyanyanyanyanyan!
+	- [[https://github.com/yjwen/org-reveal][org-reveal]] - Exports Org-mode contents to Reveal.js HTML presentation.
+	- [[https://github.com/felipelalli/org-sort-tasks][org-sort-tasks]] - Functions to keep TODO tasks in orgmode sorted and
+	  organized.
+	- [[https://github.com/alphapapa/org-super-agenda][org-super-agenda]] - Supercharge your Org daily/weekly agenda by grouping
+	  items
 	- [[https://github.com/gregsexton/origami.el][origami.el]] - A folding minor mode for Emacs
 	- [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]] - A carefully crafted Org exporter back-end for Hugo
+	- [[https://github.com/dp12/parrot][parrot]] - A package to rotate text and party with parrots at the same time
 	- [[https://github.com/polymode/polymode][polymode]] - Framework for Multiple Major Modes in Emacs (core library)
-	- [[https://github.com/bbatsov/prelude][prelude]] - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+	- [[https://github.com/bbatsov/prelude][prelude]] - Prelude is an enhanced Emacs 25.1+ distribution that should make
+	  your experience with Emacs both more pleasant and more powerful.
+	- [[https://github.com/raxod502/prescient.el][prescient.el]] - Simple but effective sorting and filtering for Emacs.
 	- [[https://github.com/rejeep/prodigy.el][prodigy.el]] - Manage external services from within Emacs
 	- [[https://github.com/bbatsov/projectile][projectile]] - Project Interaction Library for Emacs
 	- [[https://github.com/ralesi/ranger.el][ranger.el]] - Bringing the goodness of ranger to dired!
-	- [[https://github.com/remacs/remacs][remacs]] - Rust :heart: Emacs
+	- [[https://github.com/remacs/remacs][remacs]] - Rust Emacs
 	- [[https://github.com/Kungsgeten/ryo-modal][ryo-modal]] - Roll your own modal mode
-	- [[https://github.com/Fuco1/smartparens][smartparens]] - Minor mode for Emacs that deals with parens pairs and tries to be smart about it.
-	- [[https://github.com/raxod502/straight.el][straight.el]] - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
-	- [[https://github.com/zk-phi/sublimity][sublimity]] - [emacs] smooth-scrolling and minimap like sublime editor
-	- [[https://github.com/abo-abo/swiper][swiper & Ivy]] - Ivy: A generic completion frontend for Emacs. Swiper: isearch with an overview, and more. Oh, man!
+	- [[https://github.com/Fuco1/smartparens][smartparens]] - Minor mode for Emacs that deals with parens pairs and tries
+	  to be smart about it.
+	- [[https://github.com/raxod502/straight.el][straight.el]] - Next-generation, purely functional package manager for the
+	  Emacs hacker.
+	- [[https://github.com/zk-phi/sublimity][sublimity]] - smooth-scrolling and minimap like sublime editor
+	- [[https://github.com/abo-abo/swiper][swiper & ivy]] - Ivy: A generic completion frontend for Emacs. Swiper:
+	  isearch with an overview, and more. Oh, man!
 	- [[https://github.com/Alexander-Miller/treemacs][treemacs]] - A tree layout file explorer for Emacs
 	- [[https://github.com/jwiegley/use-package][use-package]] - A use-package declaration for simplifying your .emacs
-	- [[https://github.com/joostkremers/visual-fill-column][visual-fill-column]] - Emacs mode for wrapping visual-line-mode buffers at fill-column.
+	- [[https://github.com/joostkremers/visual-fill-column][visual-fill-column]] - Emacs mode for wrapping visual-line-mode buffers at
+	  fill-column.
+	- [[https://github.com/joaotavora/yasnippet][yasnippet]] - A template system for Emacs
+	- [[https://github.com/AndreaCrotti/yasnippet-snippets][yasnippet-snippets]] - a collection of yasnippet snippets for many languages
 	- [[https://github.com/cyrus-and/zoom][zoom]] - Fixed and automatic balanced window layout for Emacs
+
 *** Themes
-	- [[https://github.com/jcaw/theme-magic][theme-magic]] - 🎨 Apply your Emacs theme to the rest of Linux, using magic.
-	- [[https://github.com/greduan/emacs-theme-gruvbox][emacs-theme-gruvbox]] - Gruvbox is a retro groove color scheme for Emacs. Port of the Vim version.
-	- [[https://github.com/kunalb/poet][poet]] - An emacs theme that's well suited for modes using variable pitch: particularly org-mode and markdown-mode.
+	- [[https://github.com/jcaw/theme-magic][theme-magic]] - Apply your Emacs theme to the rest of Linux, using magic.
+	- [[https://github.com/greduan/emacs-theme-gruvbox][emacs-theme-gruvbox]] - Gruvbox is a retro groove color scheme for
+	  Emacs. Port of the Vim version.
+	- [[https://github.com/kunalb/poet][poet]] - An emacs theme that's well suited for modes using variable pitch:
+	  particularly org-mode and markdown-mode.
+
 *** Configs
-	- [[https://github.com/syl20bnr/spacemacs][spacemacs]] - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+	- [[https://github.com/syl20bnr/spacemacs][spacemacs]] - The best editor is neither Emacs nor Vim, it's Emacs *and*
+	  Vim!
 	- [[https://github.com/seagle0128/.emacs.d][Centaur Emacs]] - A Fancy and Fast Emacs Configuration
 	- [[https://github.com/purcell/emacs.d][emacs.d]] - An Emacs configuration bundle with batteries included
-	- [[https://github.com/xiaohanyu/oh-my-emacs][oh-my-emacs]] - [Stopped] Provide an awesome, out-of-box, literate dotemacs for both newbies and nerds.
+	- [[https://github.com/xiaohanyu/oh-my-emacs][oh-my-emacs]] - [Stopped] Provide an awesome, out-of-box, literate dotemacs
+	  for both newbies and nerds.
 
 *** Guides & Lists
 	- [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] - A community driven list of useful Emacs packages,
 	  libraries and others.
 	- [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide][mastering-emacs-in-one-year-guide]] - Be great at emacs in one year
 
-
 ** Vim
+*** Distros
+	- [[https://github.com/onivim/oni2][oni2]] - Native, lightweight modal code editor
+	- [[https://github.com/onivim/oni][oni]] - Oni: Modern Modal Editing powered by Neovim
+	- [[https://github.com/SpaceVim/SpaceVim][SpaceVim]] - The ultimate vim configuration
+	- [[https://github.com/prompt-toolkit/pyvim][pyvim]] - Pure Python Vim clone.
+
 *** Packages
 	- [[https://github.com/tpope/vim-dadbod][vim-dadbod]] - dadbod.vim: Modern database interface for Vim
-	- [[https://github.com/powerline/powerline][powerline]] - Powerline is a statusline plugin for vim, and provides statuslines and prompts
-	  for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+	- [[https://github.com/powerline/powerline][powerline]] - Powerline is a statusline plugin for vim, and provides
+	  statuslines and prompts for several other applications, including zsh,
+	  bash, tmux, IPython, Awesome and Qtile.
 	- [[https://github.com/PotatoesMaster/i3-vim-syntax][i3-vim-syntax]] - Vim syntax for i3 window manager config
 	- [[https://github.com/xavierd/clang_complete][clang_complete]] - Vim plugin that use clang for completing C/C++ code.
-*** Configs
+	- [[https://github.com/vimwiki/vimwiki][vimwiki]] - Personal Wiki for Vim
 
 ** Fonts & Themes
 *** Fonts
-	- [[https://github.com/googlefonts/noto-fonts][noto-fonts]] -  Noto fonts, except for CJK and emoji
+	- [[https://github.com/googlefonts/noto-fonts][noto-fonts]] - Noto fonts, except for CJK and emoji
 	- [[https://github.com/tonsky/FiraCode][FiraCode]] - Monospaced font with programming ligatures
 	- [[https://github.com/be5invis/Iosevka][Iosevka]] - Slender typeface for code, from code.
-	- [[https://github.com/ryanoasis/nerd-fonts][nerd-fonts]] - :abcd: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
+	- [[https://github.com/ryanoasis/nerd-fonts][nerd-fonts]] - Iconic font aggregator, collection, and patcher. 40+
+	  patched fonts, over 3,600 glyph/icons, includes popular collections such
+	  as Font Awesome & fonts such as Hack
+
 *** Themes
 	- [[https://github.com/arcticicestudio/nord][nord]] - An arctic, north-bluish color palette.
-	- [[https://github.com/dracula/dracula-theme][dracula-theme]] - :scream: A dark theme for all the things!
-	- [[https://github.com/mbadolato/iTerm2-Color-Schemes][iTerm2-Color-Schemes]] - Over 200 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, compatible with Microsoft's terminal http://www.iterm2colorschemes.com
+	- [[https://github.com/dracula/dracula-theme][dracula-theme]] - A dark theme for all the things!
+	- [[https://github.com/mbadolato/iTerm2-Color-Schemes][iTerm2-Color-Schemes]] - Over 200 terminal color schemes/themes for
 	- [[https://github.com/EliverLara/Sweet][Sweet]] - Light and dark colorful Gtk3.20+ theme
 	- [[https://github.com/joonro/ConEmu-Color-Themes][ConEmu-Color-Themes]] - Color themes for ConEmu
-	- [[https://github.com/tobi-wan-kenobi/bumblebee-status][bumblebee-status]] - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
-	- [[https://github.com/unixorn/awesome-zsh-plugins][awesome-zsh-plugins]] - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
-	- [[https://github.com/robbyrussell/oh-my-zsh][oh-my-zsh]] - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+	- [[https://github.com/tobi-wan-kenobi/bumblebee-status][bumblebee-status]] - bumblebee-status is a modular, theme-able status line
+	  generator for the i3 window manager.
+	- [[https://github.com/unixorn/awesome-zsh-plugins][awesome-zsh-plugins]] - A collection of ZSH frameworks, plugins & themes
+	  inspired by the various awesome list collections out there.
+	- [[https://github.com/robbyrussell/oh-my-zsh][oh-my-zsh]] - A delightful community-driven (with 1,300+ contributors)
+	  framework for managing your zsh configuration. Includes 200+ optional
+	  plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc),
+	  over 140 themes to spice up your morning, and an auto-update tool so that
+	  makes it easy to keep up with the latest updates from the community.
 	- [[https://github.com/chriskempson/base16][base16]] - An architecture for building themes
 	- [[https://github.com/bhilburn/powerlevel9k][powerlevel9k]] - The most awesome Powerline theme for ZSH around!
 	- [[https://github.com/chriskempson/tomorrow-theme][tomorrow-theme]] - Tomorrow Theme the precursor to Base16 Theme
 
 ** Reverse Engineering
 *** Apps & Packages
-	- [[https://github.com/danielmiessler/SecLists][SecLists]] - SecLists is the security tester's companion. It's a collection of multiple types
-	  of lists used during security assessments, collected in one place. List types include
-	  usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many
-	  more.
-	- [[https://github.com/mdsecactivebreach/SharpShooter][SharpShooter]] - Payload Generation Framework
-	- [[https://github.com/cs01/gdbgui][gdbgui]] - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-	- [[https://github.com/radare/radare2-extras][radare2-extras]] - Source graveyard and random candy for radare2
+	- [[https://github.com/eteran/edb-debugger][edb-debugger]] - edb is a cross platform AArch32/x86/x86-64 debugger.
+	- [[https://github.com/angr/angr][angr]] - A powerful and user-friendly binary analysis platform!
+	- [[https://github.com/M4cs/BabySploit][BabySploit]] - BabySploit Beginner Pentesting Toolkit/Framework Written in
+	  Python
+	- [[https://github.com/BinaryAnalysisPlatform/bap][bap]] - Binary Analysis Platform
+	- [[https://github.com/hasherezade/bearparser][bearparser]] - Portable Executable parsing library (from PE-bear)
+	- [[https://github.com/ReFirmLabs/binwalk][binwalk]] - Firmware Analysis Tool
+	- [[https://github.com/BloodHoundAD/BloodHound][BloodHound]] - Six Degrees of Domain Admin
+	- [[https://github.com/aquynh/capstone][capstone]] - Capstone disassembly/disassembler framework: Core (Arm, Arm64,
+	  BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ,
+	  TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
+	- [[https://github.com/digininja/CeWL][CeWL]] - CeWL is a Custom Word List Generator
+	- [[https://github.com/radareorg/cutter][cutter]] - Free and open-source GUI for radare2 reverse engineering
+	  framework
+	- [[https://github.com/gchq/CyberChef][CyberChef]] - The Cyber Swiss Army Knife a web app for encryption,
+	  encoding, compression and data analysis
+	- [[https://github.com/Coalfire-Research/DeathMetal][DeathMetal]] - Red team & penetration testing tools to exploit the
+	  capabilities of Intel AMT
+	- [[https://github.com/EmpireProject/Empire][Empire]] - Empire is a PowerShell and Python post-exploitation agent.
+	- [[https://github.com/Manisso/fsociety][fsociety]] - fsociety Hacking Tools Pack – A Penetration Testing Framework
+	- [[https://github.com/cs01/gdbgui][gdbgui]] - Browser-based frontend to gdb (gnu debugger). Add breakpoints,
+	  view the stack, visualize data structures, and more in C, C++, Go, Rust,
+	  and Fortran. Run gdbgui from the terminal and a new tab will open in your
+	  browser.
+	- [[https://github.com/NationalSecurityAgency/ghidra][ghidra]] - Ghidra is a software reverse engineering (SRE) framework
+	- [[https://github.com/hashcat/hashcat][hashcat]] - World's fastest and most advanced password recovery utility
+	- [[https://github.com/danigargu/heap-viewer][heap-viewer]] - An IDA Pro plugin to examine the glibc heap, focused on
+	  exploit development
+	- [[https://github.com/Cyb3rWard0g/HELK][HELK]] - The Hunting ELK
+	- [[https://github.com/hasherezade/hollows_hunter][hollows_hunter]] - Scans all running processes. Recognizes and dumps a
+	  variety of potentially malicious implants (replaced/implanted PEs,
+	  shellcodes, hooks, in-memory patches).
+	- [[https://github.com/DanMcInerney/icebreaker][icebreaker]] - Gets plaintext Active Directory credentials if you're on the
+	  internal network but
+	- [[https://github.com/arizvisa/ida-minsc][ida-minsc]] - IDA-minsc is a plugin for IDA Pro that assists a user with
+	  scripting the IDAPython plugin that is bundled with the disassembler. This
+	  plugin groups the different aspects of the IDAPython API into a simpler
+	  format which allows a reverse engineer to script aspects of their work
+	  with very little investment. Smash that \Star\ button if you like this.
+	- [[https://github.com/IDArlingTeam/IDArling][IDArling]] - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
+	- [[https://github.com/keystone-engine/keystone][keystone]] - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips,
+	  PowerPC, Sparc, SystemZ & X86) + bindings
+	- [[https://github.com/GaloisInc/macaw][macaw]] - Open source binary analysis tools.
+	- [[https://github.com/rapid7/metasploit-framework][metasploit-framework]] - Metasploit Framework
+	- [[https://github.com/gentilkiwi/mimikatz][mimikatz]] - A little tool to play with Windows security
+	- [[https://github.com/hasherezade/pe-sieve][pe-sieve]] - Scans a given process. Recognizes and dumps a variety of
+	  potentially malicious implants (replaced/injected PEs, shellcodes, hooks,
+	  in-memory patches).
+	- [[https://github.com/cmu-sei/pharos][pharos]] - Automated static analysis tools for binary programs
+	- [[https://github.com/pwndbg/pwndbg][pwndbg]] - Exploit Development and Reverse Engineering with GDB Made Easy
+	- [[https://github.com/Gallopsled/pwntools][pwntools]] - CTF framework and exploit development library
+	- [[https://github.com/Cisco-Talos/pyrebox][pyrebox]] - Python scriptable Reverse Engineering Sandbox, a Virtual Machine
+	  instrumentation and inspection framework based on QEMU outside the AD
+	  environment
 	- [[https://github.com/radare/radare2][radare2]] - unix-like reverse engineering framework and commandline tools
 	- [[https://github.com/radare/radare2book][radare2book]] - r1 book transcription to r2
-	- [[https://github.com/radareorg/cutter][cutter]] - Free and open-source GUI for radare2 reverse engineering framework
-	- [[https://github.com/radareorg/radeco-lib][radeco-lib]] - radare2-based decompiler
+	- [[https://github.com/radare/radare2-extras][radare2-extras]] - Source graveyard and random candy for radare2
 	- [[https://github.com/radareorg/radeco][radeco]] - radare decompiler tool based on radeco-lib
-	- [[https://github.com/rapid7/metasploit-framework][metasploit-framework]] - Metasploit Framework
-	- [[https://github.com/pwndbg/pwndbg][pwndbg]] - Exploit Development and Reverse Engineering with GDB Made Easy
-	- [[https://github.com/danigargu/heap-viewer][heap-viewer]] - An IDA Pro plugin to examine the glibc heap, focused on exploit development
-	- [[https://github.com/digininja/CeWL][CeWL]] - CeWL is a Custom Word List Generator
-	- [[https://github.com/gentilkiwi/mimikatz][mimikatz]] - A little tool to play with Windows security
-	- [[https://github.com/unicorn-engine/unicorn][unicorn]] - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
-	- [[https://github.com/angr/angr][angr]] - A powerful and user-friendly binary analysis platform!
-	- [[https://github.com/BinaryAnalysisPlatform/bap][bap]] - Binary Analysis Platform
-	- [[https://github.com/Coalfire-Research/DeathMetal][DeathMetal]] - Red team & penetration testing tools to exploit the capabilities of Intel AMT
-	- [[https://github.com/Cyb3rWard0g/HELK][HELK]] - The Hunting ELK
-	- [[https://github.com/DanMcInerney/icebreaker][icebreaker]] - Gets plaintext Active Directory credentials if you're on the internal network but
-	- [[https://github.com/Cisco-Talos/pyrebox][pyrebox]] - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation
-	  and inspection framework based on QEMU
-	outside the AD environment
-	- [[https://github.com/EmpireProject/Empire][Empire]] - Empire is a PowerShell and Python post-exploitation agent.
-	- [[https://github.com/Gallopsled/pwntools][pwntools]] - CTF framework and exploit development library
-	- [[https://github.com/GaloisInc/macaw][macaw]] - Open source binary analysis tools.
-	- [[https://github.com/IDArlingTeam/IDArling][IDArling]] - Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
-	- [[https://github.com/M4cs/BabySploit][BabySploit]] - BabySploit Beginner Pentesting Toolkit/Framework Written in Python
-	- [[https://github.com/Manisso/fsociety][fsociety]] - fsociety Hacking Tools Pack – A Penetration Testing Framework
-	- [[https://github.com/NationalSecurityAgency/ghidra][ghidra]] - Ghidra is a software reverse engineering (SRE) framework
-	- [[https://github.com/aquynh/capstone][capstone]] - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K,
-	  M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64,
-	  XCore) + bindings.
-	- [[https://github.com/ReFirmLabs/binwalk][binwalk]] - Firmware Analysis Tool
-	- [[https://github.com/arizvisa/ida-minsc][ida-minsc]] - IDA-minsc is a plugin for IDA Pro that assists a user with scripting the
-	  IDAPython plugin that is bundled with the disassembler. This plugin groups the different
-	  aspects of the IDAPython API into a simpler format which allows a reverse engineer to script
-	  aspects of their work with very little investment. Smash that \Star\ button if you like this.
+	- [[https://github.com/radareorg/radeco-lib][radeco-lib]] - radare2-based decompiler
+	- [[https://github.com/danielmiessler/SecLists][SecLists]] - SecLists is the security tester's companion. It's a collection
+	  of multiple types of lists used during security assessments, collected in
+	  one place. List types include usernames, passwords, URLs, sensitive data
+	  patterns, fuzzing payloads, web shells, and many more.
+	- [[https://github.com/mdsecactivebreach/SharpShooter][SharpShooter]] - Payload Generation Framework
+	- [[https://github.com/unicorn-engine/unicorn][unicorn]] - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc,
+	  X86)
+	- [[https://github.com/abhisharma404/vault][vault]] - swiss army knife for hackers
+	- [[https://github.com/gyoisamurai/GyoiThon][GyoiThon]] - GyoiThon is a growing penetration test tool using Machine
+	  Learning.
+	- [[https://github.com/mitmproxy/mitmproxy][mitmproxy]] - An interactive TLS-capable intercepting HTTP proxy for
+	  penetration testers and software developers.
+	- [[https://github.com/nowsecure/r2frida][r2frida]] - Radare2 and Frida better together.
+
 *** Guides & Lists
-	- [[https://github.com/angea/pocorgtfo][pocorgtfo]] - a \PoC or GTFO\ mirror with extra article index, direct links and clean PDFs.
-	- [[https://github.com/0xAlexei/INFILTRATE2019][INFILTRATE2019]] - INFILTRATE 2019 Demo Materials
-	- [[https://github.com/0xRadi/OWASP-Web-Checklist][OWASP-Web-Checklist]] - OWASP Web Application Security Testing Checklist
-	- [[https://github.com/ChrisTheCoolHut/PinCTF][PinCTF]] - Using Intel's PIN tool to solve CTF problems
-	- [[https://github.com/Hack-with-Github/Awesome-Hacking][Awesome-Hacking]] - A collection of various awesome lists for hackers, pentesters and security
-	  researchers
+	- [[https://github.com/dweinstein/awesome-frida][Awesome Frida]] - A curated list of Frida resources
+	- [[https://github.com/apsdehal/awesome-ctf][awesome-ctf]] - A curated list of CTF frameworks, libraries, resources and
+	  softwares
+	- [[https://github.com/Hack-with-Github/Awesome-Hacking][Awesome-Hacking]] - A collection of various awesome lists for hackers,
+	  pentesters and security researchers
+	- [[https://github.com/radareorg/awesome-radare2][awesome-radare2]] - A curated list of awesome projects, articles and the
+	  other materials powered by Radare2
+	- [[https://github.com/JohnHammond/ctf-katana][ctf-katana]] - This repository aims to hold suggestions (and
+	  hopefully/eventually code) for CTF challenges. The \project\ is nicknamed
+	  Katana.
 	- [[https://github.com/Hacker0x01/hacker101][hacker101]] - Hacker101
 	- [[https://github.com/Hackplayers/hackthebox-writeups][hackthebox-writeups]] - Writeups for HacktheBox 'boot2root' machines
+	- [[https://github.com/0xAlexei/INFILTRATE2019][INFILTRATE2019]] - INFILTRATE 2019 Demo Materials
 	- [[https://github.com/HexHive/libdetox][libdetox]] - Fast and efficient binary translator
-	- [[https://github.com/JohnHammond/ctf-katana][ctf-katana]] - This repository aims to hold suggestions (and hopefully/eventually code) for CTF
-	  challenges. The \project\ is nicknamed Katana.
+	- [[https://github.com/0xRadi/OWASP-Web-Checklist][OWASP-Web-Checklist]] - OWASP Web Application Security Testing Checklist
+	- [[https://github.com/ChrisTheCoolHut/PinCTF][PinCTF]] - Using Intel's PIN tool to solve CTF problems
+	- [[https://github.com/angea/pocorgtfo][pocorgtfo]] - a \PoC or GTFO\ mirror with extra article index, direct links
+	  and clean PDFs.
 	- [[https://github.com/wtsxDev/reverse-engineering][reverse-engineering]] - List of awesome reverse engineering resources
-	- [[https://github.com/radareorg/awesome-radare2][awesome-radare2]] - A curated list of awesome projects, articles and the other materials
-	  powered by Radare2
-	- [[https://github.com/apsdehal/awesome-ctf][awesome-ctf]] - A curated list of CTF frameworks, libraries, resources and softwares
-	- [[https://github.com/dweinstein/awesome-frida][Awesome Frida]] - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
+	- [[https://github.com/trimstray/the-book-of-secret-knowledge][the-book-of-secret-knowledge]] - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ** FOSS
 *** Unix Packages
-	- [[https://github.com/donnemartin/haxor-news][haxor-news]] - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
+	- [[https://github.com/donnemartin/haxor-news][haxor-news]] - Browse Hacker News like a haxor: A Hacker News command line
+	  interface (CLI).
 	- [[https://github.com/way-cooler/way-cooler][way-cooler]] - Customizable Wayland compositor (window manager)
 	- [[https://github.com/zfsonlinux/zfs][zfs]] - the official OpenZFS implementation for Linux
 	- [[https://github.com/JakobGM/astrality][astrality]] - Astrality - A modular and dynamic configuration file manager
 	- [[https://github.com/chjj/compton][compton]] - A compositor for X11.
 	- [[https://github.com/bcicen/ctop][ctop]] - Top-like interface for container metrics
-	- [[https://github.com/cjbassi/gotop][gotop]] - A terminal based graphical activity monitor inspired by gtop and vtop
+	- [[https://github.com/cjbassi/gotop][gotop]] - A terminal based graphical activity monitor inspired by gtop and
+	  vtop
 	- [[https://github.com/aksakalli/gtop][gtop]] - System monitoring dashboard for terminal
-	- [[https://github.com/hishamhm/htop][htop]] - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
+	- [[https://github.com/hishamhm/htop][htop]] - htop is an interactive text-mode process viewer for Unix
+	  systems. It aims to be a better 'top'.
 	- [[https://github.com/i3/i3][i3]] - A tiling window manager
-	- [[https://github.com/Airblader/i3][i3-gaps]] - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+	- [[https://github.com/Airblader/i3][i3-gaps]] - i3-gaps – i3 with more features (forked from
+	  https://github.com/i3/i3)
 	- [[https://github.com/SuperPrower/i3lock-fancier][i3lock-fancier]] - Yet another i3lock fork. Now with configuration file!
 	- [[https://github.com/enkore/i3pystatus][i3pystatus]] - A complete replacement for i3status
-	- [[https://github.com/LukeSmithxyz/st][lukesmith/st]] - Luke's fork of the suckless simple terminal (st) with vim bindings and
-	  Xresource compatibility.
-	- [[https://github.com/Boruch-Baum/morc_menu][morc_menu]] - categorized desktop application menu, independent of any window manager, highly
-	  and easily customizable
-	- [[https://github.com/TheWiseNoob/OMP][OMP]] - OMP is an open-source music player being developed for Linux. OMP is programmed in C++
-	  using gtkmm, GStreamer, TagLib, clastfm, and g++.
+	- [[https://github.com/LukeSmithxyz/st][lukesmith/st]] - Luke's fork of the suckless simple terminal (st) with vim
+	  bindings and Xresource compatibility.
+	- [[https://github.com/Boruch-Baum/morc_menu][morc_menu]] - categorized desktop application menu, independent of any
+	  window manager, highly and easily customizable
+	- [[https://github.com/TheWiseNoob/OMP][OMP]] - OMP is an open-source music player being developed for Linux. OMP is
+	  programmed in C++ using gtkmm, GStreamer, TagLib, clastfm, and g++.
 	- [[https://github.com/2mol/pboy][pboy]] - a small .pdf management tool with a command-line UI
-	- [[https://github.com/ValveSoftware/Proton][Proton]] - Compatibility tool for Steam Play based on Wine and additional components
+	- [[https://github.com/ValveSoftware/Proton][Proton]] - Compatibility tool for Steam Play based on Wine and additional
+	  components
 	- [[https://github.com/MrRio/vtop][vtop]] - Wow such top. So stats. More better than regular top.
 	- [[https://github.com/Jguer/yay][yay]] - Yet another Yogurt - An AUR Helper written in Go
 	- [[https://github.com/fish-shell/fish-shell][fish-shell]] - The user-friendly command line shell.
 	- [[https://github.com/davatorium/rofi][rofi]] - Rofi: A window switcher, application launcher and dmenu replacement
-	- [[https://github.com/deviantfero/wpgtk][wpgtk]] - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
+	- [[https://github.com/deviantfero/wpgtk][wpgtk]] - a colorscheme, wallpaper and template
+	  manager for *nix
 	- [[https://github.com/doitsujin/dxvk][dxvk]] - Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
 	- [[https://github.com/zsh-users/zsh][zsh]] - Mirror of the Z shell source code repository.
+
 *** Cross Platform Packages
 	- [[https://github.com/jwilm/alacritty][alacritty]] - A cross-platform, GPU-accelerated terminal emulator
-	- [[https://github.com/atom/atom][atom]] - :atom: The hackable text editor
+	- [[https://github.com/atom/atom][atom]] - The hackable text editor
 	- [[https://github.com/BoostIO/Boostnote][Boostnote]] - A markdown editor for developers on Mac, Windows and Linux.
-	- [[https://github.com/curl/curl][curl]] - A command line tool and library for transferring data with URL syntax, supporting
-	  HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP,
-	  SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features https://curl.haxx.se/
-	- [[https://github.com/spf13/dagobah][dagobah]] -  dagobah is an awesome RSS feed aggregator & reader written in Go inspired by
-	  planet
+	- [[https://github.com/curl/curl][curl]] - A command line tool and library for transferring data with URL
+	  syntax
+	- [[https://github.com/spf13/dagobah][dagobah]] - dagobah is an awesome RSS feed aggregator & reader written in Go
+	  inspired by planet
+	- [[https://github.com/freeCodeCamp/devdocs][devdocs]] - API Documentation Browser
 	- [[https://github.com/DynamoRIO/drmemory][drmemory]] - Memory Debugger for Windows, Linux, Mac, and Android
-	- [[https://github.com/junegunn/fzf][fzf]] - :cherry_blossom: A command-line fuzzy finder
+	- [[https://github.com/junegunn/fzf][fzf]] - A command-line fuzzy finder
+	- [[https://github.com/gitahead/gitahead][gitahead]] - Understand your Git history!
+	- [[https://github.com/git-chglog/git-chglog][git-chglog]] - CHANGELOG generator implemented in Go (Golang).
+	- [[https://github.com/AGWA/git-crypt][git-crypt]] - Transparent file encryption in git
+	- [[https://github.com/MitMaro/git-interactive-rebase-tool][git-interactive-rebase-tool]] - Native cross platform full feature terminal
+	  based sequence editor for git interactive rebase. Written in Rust using
+	  ncurses.
+	- [[https://github.com/hasura/gitkube][gitkube]] - Build and deploy docker images to Kubernetes using git push
+	  https://gitkube.sh
+	- [[https://docs.gitlab.com/runner/][gitlab-runner]] - GitLab Runner is the open source project that is used to
+	  run your jobs and send the results back to GitLab.
+	- [[https://github.com/git-lfs/git-lfs][git-lfs]] - Git extension for versioning large files
+	- [[https://github.com/Originate/git-town][git-town]] - Generic, high-level Git workflow support!
+	  http://www.git-town.com
+	- [[https://github.com/git-up/GitUp][gitup]] - The Git interface you've been missing all your life has finally
+	  arrived. http://gitup.co
+	- [[https://github.com/GitTools/GitVersion][gitversion]] - Easy Semantic Versioning (http://semver.org) for projects
+	  using Git
 	- [[https://github.com/zeit/hyper][hyper]] - A terminal built on web technologies
+	- [[https://github.com/jesseduffield/lazygit][lazygit]] - simple terminal UI for git commands
 	- [[https://github.com/gokcehan/lf][lf]] - Terminal file manager
-	- [[https://github.com/LightTable/LightTable][LightTable]] - The Light Table IDE ⛺
-	- [[https://github.com/Code-Hex/Neo-cowsay][Neo-cowsay]] - 🐮 cowsay is reborn. Neo Cowsay written in Go. This cowsay extended the original
-	  and added fun more options. And it can be used as a library.
-	- [[https://github.com/dylanaraps/neofetch][neofetch]] - 🖼️  A command-line system information tool written in bash 3.2+
+	- [[https://github.com/LightTable/LightTable][LightTable]] - The Light Table IDE
+	- [[https://github.com/Code-Hex/Neo-cowsay][Neo-cowsay]] - cowsay is reborn. Neo Cowsay written in Go. This cowsay
+	  extended the original and added fun more options. And it can be used as a
+	  library.
+	- [[https://github.com/dylanaraps/neofetch][neofetch]] - A command-line system information tool written in bash 3.2+
 	- [[https://github.com/neovim/neovim][neovim]] - Vim-fork focused on extensibility and usability
 	- [[https://github.com/equalsraf/neovim-qt][neovim-qt]] - Neovim client library and GUI, in Qt5.
 	- [[https://github.com/OpenBoardView/OpenBoardView][OpenBoardView]] - View .brd files
 	- [[https://gitlab.com/akihe/radamsa][radamsa]] - a general-purpose fuzzer
 	- [[https://github.com/BurntSushi/ripgrep][ripgrep]] - ripgrep recursively searches directories for a regex pattern
+	- [[https://github.com/github/semantic][semantic]] - Parsing, analyzing, and comparing source code across many
+	  languages
 	- [[https://github.com/Eugeny/terminus][terminus]] - A terminal for a more modern age
 	- [[https://github.com/FredrikNoren/ungit][ungit]] - The easiest way to use git. On any platform. Anywhere.
-	- [[https://github.com/ziahamza/webui-aria2][webui-aria2]] - The aim for this project is to create the worlds best and hottest interface to
-	  interact with aria2. Very simple to use, just download and open index.html in any web
-	  browser.
+	- [[https://github.com/ziahamza/webui-aria2][webui-aria2]] - The aim for this project is to create the worlds best and
+	  hottest interface to interact with aria2. Very simple to use, just
+	  download and open index.html in any web browser.
+	- [[https://github.com/andy-5/wslgit][wslgit]] - Use Git installed in Bash on Windows/Windows Subsystem for Linux
+	  (WSL) from Windows and Visual Studio Code (VSCode)
 	- [[https://github.com/Valloric/ycmd][ycmd]] - A code-completion & code-comprehension server
-	- [[https://github.com/ytdl-org/youtube-dl][youtube-dl]] - Command-line program to download videos from YouTube.com and other video sites
+	- [[https://github.com/ytdl-org/youtube-dl][youtube-dl]] - Command-line program to download videos from YouTube.com and
+	  other video sites
+
 *** MS Win
-	- [[https://github.com/DDoSolitary/LxRunOffline][LxRunOffline]] - A full-featured utility for managing Windows Subsystem for Linux (WSL)
+	- [[https://github.com/DDoSolitary/LxRunOffline][LxRunOffline]] - A full-featured utility for managing Windows Subsystem for
+	  Linux (WSL)
 	- [[https://github.com/JanDeDobbeleer/oh-my-posh][oh-my-posh]] - A prompt theming engine for Powershell running in ConEmu
-	- [[https://github.com/Maximus5/ConEmu][ConEmu]] - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+	- [[https://github.com/Maximus5/ConEmu][ConEmu]] - Customizable Windows terminal with tabs, splits, quake-style,
+	  hotkeys and more
 	- [[https://github.com/Wox-launcher/Wox][Wox]] - Launcher for Windows, an alternative to Alfred and Launchy.
 	- [[https://github.com/dahlbyk/posh-git][posh-git]] - A PowerShell environment for Git
-	- [[https://github.com/RoliSoft/WSL-Distribution-Switcher][WSL-Distribution-Switcher]] - Scripts to replace the distribution behind Windows Subsystem for
-	  Linux with any other Linux distribution published on Docker Hub.
-	- [[https://github.com/microsoft/msbuild][msbuild]] - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual
-	  Studio.
+	- [[https://github.com/RoliSoft/WSL-Distribution-Switcher][WSL-Distribution-Switcher]] - Scripts to replace the distribution behind
+	  Windows Subsystem for Linux with any other Linux distribution published on
+	  Docker Hub.
+	- [[https://github.com/microsoft/msbuild][msbuild]] - The Microsoft Build Engine (MSBuild) is the build platform for
+	  .NET and Visual Studio.
 	- [[https://github.com/lukesampson/concfg][concfg]] - Import / export Windows console settings
 	- [[https://github.com/lukesampson/scoop-extras][scoop-extras]] - \Extras\ bucket for Scoop
 	- [[https://github.com/lukesampson/scoop][scoop]] - A command-line installer for Windows.
+
 ** Python Packages
-   - [[https://github.com/drathier/stack-overflow-import][stack-overflow-import]] - Import arbitrary code from Stack Overflow as Python modules.
-   - [[https://github.com/kennethreitz/requests-html][requests-html]] - Pythonic HTML Parsing for Humans™
-   - [[https://github.com/kennethreitz/requests][requests]] - Python HTTP Requests for Humans™ ✨🍰✨
-   - [[https://github.com/Nuitka/Nuitka][Nuitka]] - Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6,2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
-   - [[https://github.com/3b1b/manim][manim]] - Animation engine for explanatory math videos
-   - [[https://github.com/AtsushiSakai/PythonRobotics][PythonRobotics]] - Python sample codes for robotics algorithms.
-   - [[https://github.com/ChengBinJin/MRI-to-CT-DCNN-TensorFlow][MRI-to-CT-DCNN-TensorFlow]] - This repository is the implementations of the paper "MR-based
-	 Synthetic CT Generation using Deep Convolutional Neural Network Method," Medical Physics 2017.
-   - [[https://github.com/Rapptz/discord.py][discord.py]] - An API wrapper for Discord written in Python.
    - [[https://github.com/RameshAditya/asciify][asciify]] - Convert any image into ASCII Art.
+   - [[https://github.com/Rapptz/discord.py][discord.py]] - An API wrapper for Discord written in Python.
+   - [[https://github.com/3b1b/manim][manim]] - Animation engine for explanatory math videos
+   - [[https://github.com/ChengBinJin/MRI-to-CT-DCNN-TensorFlow][MRI-to-CT-DCNN-TensorFlow]] - This repository is the implementations of the
+	 paper "MR-based Synthetic CT Generation using Deep Convolutional Neural
+	 Network Method," Medical Physics 2017.
+   - [[https://github.com/Nuitka/Nuitka][Nuitka]] - Nuitka is a Python compiler written in Python. It's fully
+	 compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it
+	 your Python app, it does a lot of clever things, and spits out an
+	 executable or extension module.
+   - [[https://github.com/AtsushiSakai/PythonRobotics][PythonRobotics]] - Python sample codes for robotics algorithms.
+   - [[https://github.com/kennethreitz/requests][requests]] - Python HTTP Requests for Humans
+   - [[https://github.com/kennethreitz/requests-html][requests-html]] - Pythonic HTML Parsing for Humans
+   - [[https://github.com/drathier/stack-overflow-import][stack-overflow-import]] - Import arbitrary code from Stack Overflow as Python
+	 modules.
+
 ** JS Packages
-   - [[https://github.com/BabylonJS/Babylon.js][Babylon.js]] - Babylon.js is a powerful, beautiful, simple, and open, game and rendering engine packed into a friendly JavaScript framework.
+   - [[https://github.com/BabylonJS/Babylon.js][Babylon.js]] - Babylon.js is a powerful, beautiful, simple, and open, game
+	 and rendering engine packed into a friendly JavaScript framework.
+   - [[https://github.com/gatsbyjs/gatsby][gatsby]] - Build blazing fast, modern apps and websites with React.
+
 ** Go Packages
-   - [[https://github.com/bwmarrin/discordgo][discordgo]] -  (Golang) Go bindings for Discord
+   - [[https://github.com/bwmarrin/discordgo][discordgo]] - (Golang) Go bindings for Discord
+   - [[https://github.com/gohugoio/hugo][hugo]] - The world’s fastest framework for building websites.
+   - [[https://github.com/spf13/nitro][nitro]] - Quick and easy performance analyzer library for golang
 
 ** ICANTREMEMBER
    [[https://github.com/CraneStation/wasi][wasi]] - WASI overview
 
-
 ** Awesome List(Recursion All Day)
-
-   - [[https://github.com/Kickball/awesome-selfhosted][awesome-selfhosted]] - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
-   - [[https://github.com/KotlinBy/awesome-kotlin][awesome-kotlin]] - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-   - [[https://github.com/LisaDziuba/Awesome-Design-Tools][Awesome-Design-Tools]] - The best design tools for everything 👉
-   - [[https://github.com/agarrharr/awesome-cli-apps][awesome-cli-apps]] - 🖥 📊 🕹 🛠 A curated list of command line apps
-   - [[https://github.com/alebcay/awesome-shell][awesome-shell]] - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-   - [[https://github.com/avelino/awesome-go][awesome-go]] - A curated list of awesome Go frameworks, libraries and software
+   - [[https://github.com/Kickball/awesome-selfhosted][awesome-selfhosted]] - This is a list of Free Software network services and
+	 web applications which can be hosted locally. Selfhosting is the process of
+	 locally hosting and managing applications instead of renting from SaaS
+	 providers.
+   - [[https://github.com/KotlinBy/awesome-kotlin][awesome-kotlin]] - A curated list of awesome Kotlin related stuff Inspired by
+	 awesome-java.
+   - [[https://github.com/LisaDziuba/Awesome-Design-Tools][Awesome-Design-Tools]] - The best design tools for everything
+   - [[https://github.com/agarrharr/awesome-cli-apps][awesome-cli-apps]] - A curated list of command line apps
+   - [[https://github.com/alebcay/awesome-shell][awesome-shell]] - A curated list of awesome command-line frameworks,
+	 toolkits, guides and gizmos. Inspired by awesome-php.
+   - [[https://github.com/avelino/awesome-go][awesome-go]] - A curated list of awesome Go frameworks, libraries and
+	 software
    - [[https://github.com/bayandin/awesome-awesomeness][awesome-awesomeness]] - A curated list of awesome awesomeness
-   - [[https://github.com/bnb/awesome-developer-streams][awesome-developer-streams]] - ‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
-   - [[https://github.com/diimdeep/awesome-split-keyboards][awesome-split-keyboards]] - A collection of ergonomic split keyboards ⌨
+   - [[https://github.com/bnb/awesome-developer-streams][awesome-developer-streams]] - Awesome Developers, Streaming
+   - [[https://github.com/diimdeep/awesome-split-keyboards][awesome-split-keyboards]] - A collection of ergonomic split keyboards
    - [[https://github.com/elves/awesome-elvish][awesome-elvish]] - The official list of awesome unofficial Elvish modules
-   - [[https://github.com/fffaraz/awesome-cpp][awesome-cpp]] - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-   - [[https://github.com/herrbischoff/awesome-command-line-apps][awesome-command-line-apps]] - :shell: Use your terminal shell to do awesome things.
-   - [[https://github.com/janikvonrotz/awesome-powershell][awesome-powershell]] - A curated list of delightful PowerShell modules and resources
-   - [[https://github.com/jondot/awesome-devenv][awesome-devenv]] - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-   - [[https://github.com/jorgebucaran/awesome-fish][awesome-fish]] - A curated list of packages, prompts, and resources for the amazing fish shell
-   - [[https://github.com/kahun/awesome-sysadmin][awesome-sysadmin]] - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-   - [[https://github.com/posquit0/Awesome-CV][Awesome-CV]] - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-   - [[https://github.com/sindresorhus/awesome][awesome]] - 😎 Awesome lists about all kinds of interesting topics
-   - [[https://github.com/veggiemonk/awesome-docker][awesome-docker]] - :whale: A curated list of Docker resources and projects
-   - [[https://github.com/viatsko/awesome-vscode][awesome-vscode]] - 🎨 A curated list of delightful VS Code packages and resources.
-   - [[https://github.com/yoloseem/awesome-sphinxdoc][awesome-sphinxdoc]] - A curated list of awesome tools for Sphinx Python Documentation Generator
+   - [[https://github.com/fffaraz/awesome-cpp][awesome-cpp]] - A curated list of awesome C++ (or C) frameworks, libraries,
+	 resources, and shiny things. Inspired by awesome-... stuff.
+   - [[https://github.com/herrbischoff/awesome-command-line-apps][awesome-command-line-apps]] - Use your terminal shell to do awesome
+	 things.
+   - [[https://github.com/janikvonrotz/awesome-powershell][awesome-powershell]] - A curated list of delightful PowerShell modules and
+	 resources
+   - [[https://github.com/jondot/awesome-devenv][awesome-devenv]] - A curated list of awesome tools, resources and workflow
+	 tips making an awesome development environment.
+   - [[https://github.com/jorgebucaran/awesome-fish][awesome-fish]] - A curated list of packages, prompts, and resources for the
+	 amazing fish shell
+   - [[https://github.com/kahun/awesome-sysadmin][awesome-sysadmin]] - A curated list of amazingly awesome open source sysadmin
+	 resources inspired by Awesome PHP.
+   - [[https://github.com/posquit0/Awesome-CV][Awesome-CV]] - Awesome CV is LaTeX template for your
+	 outstanding job application
+   - [[https://github.com/sindresorhus/awesome][awesome]] - Awesome lists about all kinds of interesting topics
+   - [[https://github.com/veggiemonk/awesome-docker][awesome-docker]] - A curated list of Docker resources and projects
+   - [[https://github.com/viatsko/awesome-vscode][awesome-vscode]] - A curated list of delightful VS Code packages and
+	 resources.
+   - [[https://github.com/yoloseem/awesome-sphinxdoc][awesome-sphinxdoc]] - A curated list of awesome tools for Sphinx Python
+	 Documentation Generator
 
+* ADDLIST Not Edited
 
-** Not Edited
-
-
-	- [[https://github.com/Jazqa/kwin-quarter-tiling][kwin-quarter-tiling]] - Improves the workflow by automatically tiling windows and creating virtual desktops
-	- [[https://github.com/MattPD/cpplinks][cpplinks]] -  A categorized list of C++ resources.
-	- [[https://github.com/NVIDIA/vid2vid][vid2vid]] - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
-	- [[https://github.com/Nexus-Mods/Vortex][Vortex]] - Vortex Development
-	- [[https://github.com/Nukesor/sticker-finder][sticker-finder]] - :zap: A telegram bot for searching all the stickers (just like @gif).
-	- [[https://github.com/Pagedraw/pagedraw][pagedraw]] - a UI builder for React web apps
-	- [[https://github.com/RomuloOliveira/commit-messages-guide][commit-messages-guide]] - A guide to understand the importance of commit messages and how to write them well
-	- [[https://github.com/Ruin0x11/intellij-lsp-server][intellij-lsp-server]] - Exposes IntelliJ IDEA features through the Language Server Protocol.
-	- [[https://github.com/Siderus/Orion][Orion]] - [Moved to Gitlab] Easy to Use, Inter Planetary File System (IPFS) desktop client
-	- [[https://github.com/SpaceVim/SpaceVim - A community-driven modular vim distribution][SpaceVim - A community-driven modular vim distribution]] - The ultimate vim configuration
-	- [[https://github.com/Swordfish90/cool-retro-term][cool-retro-term]] - A good looking terminal emulator which mimics the old cathode display...
-	- [[https://github.com/TranslucentTB/TranslucentTB][TranslucentTB]] - A lightweight utility that makes the Windows taskbar translucent/transparent.
-	- [[https://github.com/Tympan/Tympan_Library][Tympan_Library]] - Arduino/Teensy Library for Tympan Open Source Hearing Aid
-	- [[https://github.com/USArmyResearchLab/Dshell][Dshell]] - Dshell is a network forensic analysis framework.
-	- [[https://github.com/Veil-Framework/Veil][Veil]] - Veil 3.1.X (Check version info in Veil at runtime)
-	- [[https://github.com/Yubico/yubioath-desktop][yubioath-desktop]] - Yubico Authenticator for Desktop (Windows, macOS and Linux)
-	- [[https://github.com/abhisharma404/vault][vault]] - swiss army knife for hackers
-	- [[https://github.com/achael/eht-imaging][eht-imaging]] - Imaging, analysis, and simulation software for radio interferometry
-	- [[https://github.com/agronholm/typeguard][typeguard]] - Run-time type checker for Python
-	- [[https://github.com/ahmetaa/zemberek-nlp][zemberek-nlp]] - NLP tools for Turkish.
-	- [[https://github.com/akavel/up][up]] - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-	- [[https://github.com/alexmojaki/birdseye][birdseye]] - Graphical Python debugger which lets you easily view the values of all evaluated expressions
-	- [[https://github.com/amix/vimrc][vimrc]] - The ultimate Vim configuration: vimrc
-	- [[https://github.com/anishathalye/dotbot][dotbot]] - A tool that bootstraps your dotfiles :zap:
-	- [[https://github.com/artf/grapesjs][grapesjs]] - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-	- [[https://github.com/arvidn/libtorrent][libtorrent]] - an efficient feature complete C++ bittorrent implementation
-	- [[https://github.com/asciinema/asciinema][asciinema]] - Terminal session recorder 📹
-	- [[https://github.com/ashnkumar/sketch-code][sketch-code]] - Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
-	- [[https://github.com/atlas-engineer/next - Next Browser][next - Next Browser]] - Be Productive.
-	- [[https://github.com/balena-io/etcher][etcher]] - Flash OS images to SD cards & USB drives, safely and easily.
-	- [[https://github.com/beetbox/beets][beets]] - music library manager and MusicBrainz tagger
-	- [[https://github.com/berzerk0/Probable-Wordlists][Probable-Wordlists]] - make sure your passwords aren't popular!
-	- [[https://github.com/bettercap/bettercap][bettercap]] - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
-	- [[https://github.com/bloom42/rocket][rocket]] - Automated software delivery as fast and easy as possible :rocket:
-	- [[https://github.com/boot-clj/boot][boot]] - Build tooling for Clojure.
-	- [[https://github.com/borgbackup/borg][borg]] - Deduplicating archiver with compression and authenticated encryption.
-	- [[https://github.com/brentvollebregt/auto-py-to-exe][auto-py-to-exe]] - Converts .py to .exe using a simple graphical interface
-	- [[https://github.com/brookhong/Surfingkeys][Surfingkeys]] - Map your keys for web surfing, expand your browser with javascript and keyboard.
-	- [[https://github.com/catchorg/Catch2 - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD][Catch2 - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD]] - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-	- [[https://github.com/cea-sec/Sibyl][Sibyl]] - A Miasm2 based function divination.
-	- [[https://github.com/cfenollosa/os-tutorial][os-tutorial]] - How to create an OS from scratch
-	- [[https://github.com/cfpb/clouseau][clouseau]] - Search your repository's git history for undesirable text patterns such as passwords, ssh keys and othe personal identifiable information
-	- [[https://github.com/chrissimpkins/codeface][codeface]] - Typefaces for source code beautification
-	- [[https://github.com/chubin/cheat.sh][cheat.sh]] - the only cheat sheet you need
-	- [[https://github.com/chyyran/seiri][seiri]] - 🎶 Opinionated, barebones music manager.
-	- [[https://github.com/cmu-sei/pharos][pharos]] - Automated static analysis tools for binary programs
-	- [[https://github.com/crazyguitar/pysheeet][pysheeet]] - Python Cheat Sheet
-	- [[https://github.com/cspeterson/splatmoji][splatmoji]] - Quickly look up and input emoji and/or emoticons/kaomoji on your GNU/Linux desktop via pop-up menu.
-	- [[https://github.com/d3v1l401/FindCrypt-Ghidra][FindCrypt-Ghidra]] - IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database
-	- [[https://github.com/dbcli/pgcli][pgcli]] - Postgres CLI with autocompletion and syntax highlighting
-	- [[https://github.com/denysdovhan/spaceship-prompt][spaceship-prompt]] - :rocket::star: A Zsh prompt for Astronauts
-	- [[https://github.com/digitalocean/netbox][netbox]] - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-	- [[https://github.com/distcc/distcc][distcc]] - distributed builds for C, C++ and Objective C
-	- [[https://github.com/docker/compose][compose]] - Define and run multi-container applications with Docker
-	- [[https://github.com/dsasmblr/game-hacking][game-hacking]] - Tutorials, tools, and more as related to reverse engineering video games.
-	- [[https://github.com/dubreuia/intellij-plugin-save-actions][intellij-plugin-save-actionsconfigurable]] - Supports configurable, Eclipse like, save actions, including "organize imports", "reformat code" and "rearrange code".
-	- [[https://github.com/elastic/curator][curator]] - Curator: Tending your Elasticsearch indices
-	- [[https://github.com/elastic/elasticsearch][elasticsearch]] - Open Source, Distributed, RESTful Search Engine
-	- [[https://github.com/elves/elvish][elvish]] - Friendly Interactive Shell and Expressive Programming Language
-	- [[https://github.com/erkin/ponysay][ponysay]] - Pony rewrite of cowsay.
-	- [[https://github.com/eteran/edb-debugger][edb-debugger]] - edb is a cross platform AArch32/x86/x86-64 debugger.
-	- [[https://github.com/evgeni/qifi][qifi]] - pure JS WiFi QR Code Generator
-	- [[https://github.com/evilsocket/opensnitch][opensnitch]] - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
-	- [[https://github.com/excamera/alfalfa][alfalfa]] - Purely functional video codec, used for ExCamera and Salsify
-	- [[https://github.com/felixse/FluentTerminal][FluentTerminal]] - A Terminal Emulator based on UWP and web technologies.
-	- [[https://github.com/fennerm/flashfocus][flashfocus]] - Simple focus animations for tiling window managers.
-	- [[https://github.com/feramhq/transity][transity]] - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line
-	- [[https://github.com/froggey/Mezzano][Mezzano]] - An operating system written in Common Lisp
-	- [[https://github.com/gchq/CyberChef - The Cyber Swiss Army Knife][CyberChef - The Cyber Swiss Army Knife]] - a web app for encryption, encoding, compression and data analysis
-	- [[https://github.com/gcla/termshark][termshark]] - A terminal UI for tshark, inspired by Wireshark
-	- [[https://github.com/gencebay/httplive][httplive]] - HTTP Request & Response Service, Mock HTTP
-	- [[https://github.com/getify/You-Dont-Know-JS][You-Dont-Know-JS]] - A book series on JavaScript. @YDKJS on twitter.
-	- [[https://github.com/ggreer/the_silver_searcher][the_silver_searcher]] - A code-searching tool similar to ack, but faster.
-	- [[https://github.com/git-tips/tips][tips]] - Most commonly used git tips and tricks.
-	- [[https://github.com/gitextensions/gitextensions][gitextensions]] - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
-	- [[https://github.com/gnotclub/xst][xst]] - st fork that uses Xresources and some pretty good patches
-	- [[https://github.com/go-task/task][task]] - A task runner / simpler Make alternative written in Go
-	- [[https://github.com/goatfungus/NMSSaveEditor - No Man's Sky][NMSSaveEditor - No Man's Sky]] - Save Editor
-	- [[https://github.com/golang/go][go]] - The Go programming language
-	- [[https://github.com/google/autofdo][autofdo]] - AutoFDO
-	- [[https://github.com/google/binexport][binexport]] - An IDA Pro plugin for exporting disassemblies into Protocol Buffers and to BinNavi databases
-	- [[https://github.com/google/code-prettify][code-prettify]] - An embeddable script that makes source-code snippets in HTML prettier.
-	- [[https://github.com/google/filament][filament]] - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
-	- [[https://github.com/google/flatbuffers][flatbuffers]] - Memory Efficient Serialization Library
-	- [[https://github.com/google/googletest - Googletest][googletest - Googletest]] - Google Testing and Mocking Framework
-	- [[https://github.com/google/grumpy][grumpy]] - Grumpy is a Python to Go source code transcompiler and runtime.
-	- [[https://github.com/google/logger][logger]] - Cross platform Go logging library.
-	- [[https://github.com/google/python-fire][python-fire]] - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-	- [[https://github.com/google/pytruth][pytruth]] - Assertion framework for Python unit tests
-	- [[https://github.com/google/sandboxed-api][sandboxed-api]] - Sandboxed API automatically generates sandboxes for C/C++ libraries
-	- [[https://github.com/google/sanitizers][sanitizers]] - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-	- [[https://github.com/google/styleguide][styleguide]] - Style guides for Google-originated open-source projects
-	- [[https://github.com/google/truth][truth]] - Fluent assertions for Java
-	- [[https://github.com/gynvael/iface][iface]] - Rather bad Windows/Linux RPC interface specialized for a Windows-host/Linux-guest configuration.
-	- [[https://github.com/gyoisamurai/GyoiThon][GyoiThon]] - GyoiThon is a growing penetration test tool using Machine Learning.
-	- [[https://github.com/hashcat/hashcat][hashcat]] - World's fastest and most advanced password recovery utility
-	- [[https://github.com/hasherezade/hollows_hunter][hollows_hunter]] - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
-	- [[https://github.com/hasherezade/pe-sieve][pe-sieve]] - Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
-	- [[https://github.com/haskellcamargo/sclack][sclack]] - The best CLI client for Slack, because everything is terrible!
-	- [[https://github.com/helm/helm][helm]] - The Kubernetes Package Manager
-	- [[https://github.com/huge-success/sanic][sanic]] - Async Python 3.6+ web server/framework | Build fast. Run fast.
-	- [[https://github.com/hughsie/fwupd][fwupd]] - A simple daemon to allow session software to update firmware
-	- [[https://github.com/i-tu/Hasklig - Hasklig][Hasklig - Hasklig]] - a code font with monospaced ligatures
-	- [[https://github.com/intel-go/bytebuf][bytebuf]] - Example of how CL133375 can be utilized to mitigate Go escape analysis limitations.
-	- [[https://github.com/intel/acat][acat]] - Assistive Context-Aware Toolkit (ACAT)
-	- [[https://github.com/iridakos/duckrails][duckrails]] - Development tool to mock API endpoints quickly and easily (docker image included)
-	- [[https://github.com/iridakos/elman][elman]] - Full text searching Linux man pages with Elasticsearch :penguin:
-	- [[https://github.com/iridakos/goto][goto]] - A shell utility to quickly navigate to aliased directories with autocomplete :penguin:
-	- [[https://github.com/isacikgoz/gitbatch][gitbatch]] - manage your git repositories in one place
-	- [[https://github.com/j3ssie/Osmedeus][Osmedeus]] - Fully automated offensive security tool for reconnaissance and vulnerability scanning
-	- [[https://github.com/jaakkopasanen/AutoEq][AutoEq]] - Automatic headphone equalization from frequency responses
-	- [[https://github.com/jakubroztocil/httpie][httpie]] - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
-	- [[https://github.com/jarun/Buku][Buku]] - :bookmark: Browser-independent bookmark manager
-	- [[https://github.com/jarun/bcal][bcal]] - :1234: Storage and general-purpose calculator
-	- [[https://github.com/jarun/ddgr][ddgr]] - :duck: DuckDuckGo from the terminal
-	- [[https://github.com/jarun/googler][googler]] - :eyes: Google from the terminal
-	- [[https://github.com/jarun/imgp][imgp]] - :camera_flash: High-performance batch image resizer & rotator
-	- [[https://github.com/jarun/nnn][nnn]] - :dolphin: Snappy file manager for the ninjas!
-	- [[https://github.com/jarun/pdd][pdd]] - :date: Tiny date, time diff calculator with timers
-	- [[https://github.com/jaypipes/ghw][ghw]] - Golang hardware discovery/inspection library
-	- [[https://github.com/jgm/gitit][gitit]] - A wiki using HAppS, pandoc, and git
-	- [[https://github.com/jgonggrijp/pip-review][pip-review]] - A tool to keep track of your Python package updates.
-	- [[https://github.com/jlevy/the-art-of-command-line][the-art-of-command-line]] - Master the command line, in one page
-	- [[https://github.com/johannesjo/super-productivity][super-productivity]] - To Do List / Time Tracker with Jira Integration. Makes you super productive!
-	- [[https://github.com/johnkerl/miller][miller]] - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-	- [[https://github.com/jonas/tig][tig]] - Text-mode interface for git
-	- [[https://github.com/k4m4/terminals-are-sexy][terminals-are-sexy]] - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-	- [[https://github.com/k88hudson/git-flight-rules][git-flight-rules]] - Flight rules for git
-	- [[https://github.com/karansthr/Playlist-Length][Playlist-Length]] - A simple command line tool to get length of all the video and/or audio files in a directory and its sub-directories recursively
-	- [[https://github.com/kcmerrill/alfred][alfred]] - (v0.2) Even Batman needs a little help. Task runner. Automator. Build system.
-	- [[https://github.com/kdeloach/workman][workman]] - Workman keyboard layout
-	- [[https://github.com/kennethreitz/legit][legit]] - Git for Humans, Inspired by GitHub for Mac™.
-	- [[https://github.com/keraf/NoCoin][NoCoin]] - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.
-	- [[https://github.com/keystone-engine/keystone][keystone]] - Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bindings
-	- [[https://github.com/kiibohd/controller][controller]] - Kiibohd Controller
-	- [[https://github.com/kiibohd/kll][kll]] - KLL Compiler
-	- [[https://github.com/kitao/pyxel][pyxel]] - A retro game engine for Python
-	- [[https://github.com/koalaman/shellcheck][shellcheck]] - ShellCheck, a static analysis tool for shell scripts
-	- [[https://github.com/laurent22/joplin - Joplin][joplin - Joplin]] - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-	- [[https://github.com/longld/peda - PEDA][peda - PEDA]] - Python Exploit Development Assistance for GDB
-	- [[https://github.com/lupoDharkael/flameshot][flameshot]] - Powerful yet simple to use screenshot software
-	- [[https://github.com/magefile/mage][mage]] - a Make/rake-like build tool using Go
-	- [[https://github.com/maharmstone/btrfs][btrfs]] - WinBtrfs
-	- [[https://github.com/materye/poormanswiki][poormanswiki]] - A simple offline Wiki using Chromium and Markdown Viewer.
-	- [[https://github.com/mayswind/AriaNg][AriaNg]] - AriaNg, a modern web frontend making aria2 easier to use.
-	- [[https://github.com/mbusb/multibootusb][multibootusb]] - Create multiboot live Linux on a USB disk...
-	- [[https://github.com/meskarune/i3lock-fancy][i3lock-fancy]] - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
-	- [[https://github.com/mesonbuild/meson][meson]] - The Meson Build System
-	- [[https://github.com/mh21/i3-renameworkspaces][i3-renameworkspaces]] - Rename i3 workspaces to contain the names of the programs on them.
-	- [[https://github.com/mhinz/vim-signify][vim-signify]] - :heavy_plus_sign: Show a diff using Vim its sign column.
-	- [[https://github.com/michael-lazar/rtv][rtv]] - Browse Reddit from your terminal
-	- [[https://github.com/micropython/micropython - MicroPython][micropython - MicroPython]] - a lean and efficient Python implementation for microcontrollers and constrained systems
-	- [[https://github.com/microsoft/PowerToys][PowerToys]] - Windows system utilities to maximize productivity
-	- [[https://github.com/microsoft/WSL-DistroLauncher][WSL-DistroLauncher]] - Sample/reference launcher app for WSL distro Microsoft Store packages.
-	- [[https://github.com/microsoft/frontend-bootcamp][frontend-bootcamp]] - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-	- [[https://github.com/microsoft/pyright][pyright]] - Static type checker for Python
-	- [[https://github.com/microsoft/terminal][msterminal]] -  The new Windows Terminal, and the original Windows console host all in the same place!
-	- [[https://github.com/mitmproxy/mitmproxy][mitmproxy]] - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-	- [[https://github.com/moisesmcardona/GoogleDriveUploadTool][GoogleDriveUploadTool]] - A tool for Windows to upload and manage files in Google Drive. It resumes uploads in case of an error or failure. Perfect for uploading large files or if your connection is unstable.
-	- [[https://github.com/moldabekov/virusgotal][virusgotal]] - 👾 VirusTotal zero dependency command line client. Hassle free file/URL scanning from CLI
-	- [[https://github.com/monicahq/monica][monica]] - Personal CRM. Remember everything about your friends and family.
-	- [[https://github.com/morhetz/gruvbox][gruvbox]] - Retro groove color scheme for Vim
-	- [[https://github.com/mrkkrp/modalka][modalka]] - Easily introduce native modal editing of your own design
-	- [[https://github.com/mzucker/noteshrink][noteshrink]] - Convert scans of handwritten notes to beautiful, compact PDFs
-	- [[https://github.com/nasa-jpl/open-source-rover][open-source-rover]] - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-	- [[https://github.com/nccgroup/freddy][freddy]] - Automatically identify deserialisation issues in Java and .NET applications by using active and passive scans
-	- [[https://github.com/newsboat/newsboat][newsboat]] - An RSS/Atom feed reader for text terminals
-	- [[https://github.com/nglgzz/albert-plugins][albert-plugins]] - Plugins for albert launcher
-	- [[https://github.com/nielsmadan/harlequin][harlequin]] - Dark, high contrast gvim colorscheme inspired by molokai and bad wolf.
-	- [[https://github.com/nmap/nmap][nmap]] - the Network Mapper. Github mirror of official SVN repository.
-	- [[https://github.com/nowsecure/r2frida][r2frida]] - Radare2 and Frida better together.
-	- [[https://github.com/nsacyber/WALKOFF][WALKOFF]] - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
-	- [[https://github.com/numba/numba][numba]] - NumPy aware dynamic Python compiler using LLVM
-	- [[https://github.com/nvbn/thefuck][thefuck]] - Magnificent app which corrects your previous console command.
-	- [[https://github.com/oclif/oclif][oclif]] - Node.js Open CLI Framework. Built with 💜 by Heroku.
-	- [[https://github.com/ocornut/imgui][imgui]] - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-	- [[https://github.com/octobanana/fltrdr][fltrdr]] - A TUI text reader for the terminal.
-	- [[https://github.com/octobanana/peaclock][peaclock]] - A responsive and customizable clock, timer, and stopwatch for the terminal.
-	- [[https://github.com/ogham/exa][exa]] - A modern version of ‘ls’.
-	- [[https://github.com/oh-my-fish/oh-my-fish][oh-my-fish]] - The Fish Shell Framework
-	- [[https://github.com/olafhartong/ThreatHunting][ThreatHunting]] - A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
-	- [[https://github.com/olafhartong/sysmon-modular][sysmon-modular]] - A repository of sysmon configuration modules
-	- [[https://github.com/olivierkes/manuskript][manuskript]] - A open-source tool for writers
-	- [[https://github.com/oltolm/scoop-nonportable][scoop-nonportable]] - Scoop bucket for nonportable apps
-	- [[https://github.com/onivim/oni2][oni2]] - Native, lightweight modal code editor
-	- [[https://github.com/onivim/oni][oni]] - Oni: Modern Modal Editing powered by Neovim
-	- [[https://github.com/opendtrace/opendtrace][opendtrace]] - Code for the cross platform, single source, OpenDTrace implementation
-	- [[https://github.com/oxequa/realize][realize]] - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-	- [[https://github.com/p-gen/smenu][smenu]] - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
-	- [[https://github.com/palantir/python-language-server][python-language-server]] - An implementation of the Language Server Protocol for Python
-	- [[https://github.com/parcel-bundler/parcel][parcel]] - 📦🚀 Blazing fast, zero configuration web application bundler
-	- [[https://github.com/pedronauck/docz][docz]] - ✍🏻It has never been so easy to document your things!
-	- [[https://github.com/philc/vimium][vimium]] - The hacker's browser.
-	- [[https://github.com/pi-hole/pi-hole][pi-hole]] - A black hole for Internet advertisements
-	- [[https://github.com/pipxproject/pipx][pipx]] - Execute binaries from Python packages in isolated environments
-	- [[https://github.com/plotly/dash][dash]] - Analytical Web Apps for Python. No JavaScript Required.
-	- [[https://github.com/powerline/fonts][powerlinefonts]] - Patched fonts for Powerline users.
-	- [[https://github.com/prompt-toolkit/pyvim][pyvim]] - Pure Python Vim clone.
-	- [[https://github.com/pwaller/pyfiglet][pyfiglet]] - An implementation of figlet written in Python
-	- [[https://github.com/pypa/pipenv][pipenv]] -  Python Development Workflow for Humans.
-	- [[https://github.com/python-pillow/Pillow][Pillow]] - The friendly PIL fork (Python Imaging Library)
-	- [[https://github.com/pytorch/pytorch][pytorch]] - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
-	- [[https://github.com/qmk/qmk_firmware][qmk_firmware]] - keyboard controller firmware for Atmel AVR and ARM USB families
-	- [[https://github.com/qutebrowser/qutebrowser][qutebrowser]] - A keyboard-driven, vim-like browser based on PyQt5.
-	- [[https://github.com/ray-project/ray][ray]] - A fast and simple framework for building and running distributed applications.
-	- [[https://github.com/rdp/screen-capture-recorder-to-video-windows-free][screen-capture-recorder-to-video-windows-free]] - a free open source  windows \screen capture\ device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio)
-	- [[https://github.com/reactos/reactos][reactos]] - A free Windows-compatible Operating System
-	- [[https://github.com/realpython/python-guide][python-guide]] - Python best practices guidebook, written for humans.
-	- [[https://github.com/reedes/vim-pencil][vim-pencil]] - Rethinking Vim as a tool for writing
-	- [[https://github.com/rek7/mXtract - mXtract][mXtract - mXtract]] - Offensive Memory Extractor & Analyzer
-	- [[https://github.com/rgburke/grv][grv]] - GRV is a terminal interface for viewing git repositories
-	- [[https://github.com/rhardih/ekill][ekill]] - Chrome extension to nuke annoying elements in a web page
-	- [[https://github.com/rhysd/NyaoVim][NyaoVim]] - Web-enhanced Extensible Neovim Frontend
-	- [[https://github.com/rhysd/git-messenger.vim][git-messenger.vim]] - Vim and Neovim plugin to reveal the commit messages under the cursor
-	- [[https://github.com/roosta/i3wsr][i3wsr]] - Change i3-wm workspace names based on content
-	- [[https://github.com/rsc/2fa][2fa]] - Two-factor authentication on the command line
-	- [[https://github.com/rupa/z - z][z - z]] - jump around
-	- [[https://github.com/ryanoasis/vim-devicons][vim-devicons]] - :symbols: Adds file type glyphs/icons to popular Vim plugins: NERDTree, vim-airline, Powerline, Unite, vim-startify and more
-	- [[https://github.com/s0md3v/Hash-Buster][Hash-Buster]] - Crack hashes in seconds.
-	- [[https://github.com/s0md3v/Photon][Photon]] - Incredibly fast crawler designed for OSINT.
-	- [[https://github.com/s0md3v/XSStrike][XSStrike]] - Most advanced XSS scanner.
-	- [[https://github.com/s3team/uroboros][uroboros]] - Infrastructure for Reassembleable Disassembling and Transformation
-	- [[https://github.com/sabof/project-explorer][project-explorer]] -  A project explorer sidebar
-	- [[https://github.com/satwikkansal/wtfpython][wtfpython]] - A collection of surprising Python snippets and lesser-known features.
-	- [[https://github.com/scanmem/scanmem][scanmem]] - memory scanner for Linux
-	- [[https://github.com/scrapy/scrapy][scrapy]] - Scrapy, a fast high-level web crawling & scraping framework for Python.
-	- [[https://github.com/seagle0128/doom-modeline][doom-modeline]] - A fancy and fast mode-line inspired by minimalism design.
-	- [[https://github.com/secdev/scapy][scapy]] - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
-	- [[https://github.com/semantic-release/semantic-release][semantic-release]] - :package::rocket: Fully automated version management and package publishing
-	- [[https://github.com/sharkdp/bat][bat]] - A cat(1) clone with wings.
-	- [[https://github.com/sharkdp/fd][fd]] - A simple, fast and user-friendly alternative to 'find'
-	- [[https://github.com/shobrook/rebound][rebound]] - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
-	- [[https://github.com/sinclairtarget/um][um]] - Create and maintain your own man pages so you can remember how to do stuff
-	- [[https://github.com/sjl/badwolf][badwolf]] - A Vim color scheme.
-	- [[https://github.com/skvark/opencv-python][opencv-python]] - This repository generates precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
-	- [[https://github.com/skywind3000/z.lua][z.lua]] - A new cd command that helps you navigate faster by learning your habits :zap:
-	- [[https://github.com/snare/voltron][voltron]] - A hacky debugger UI for hackers
-	- [[https://github.com/snipsco/snips-nlu][snips-nlu]] - Snips Python library to extract meaning from text
-	- [[https://github.com/so-fancy/diff-so-fancy][diff-so-fancy]] - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-	- [[https://github.com/socialcopsdev/camelot][camelot]] - Camelot: PDF Table Extraction for Humans
-	- [[https://github.com/source-foundry/Hack][Hack]] - A typeface designed for source code
-	- [[https://github.com/spf13/cobra][cobra]] - A Commander for modern Go CLI interactions
-	- [[https://github.com/spf13/fsync][fsync]] - Keeps files or directories in sync.
-	- [[https://github.com/spf13/spf13-vim][spf13-vim]] - The ultimate vim distribution
-	- [[https://github.com/spf13/viper][viper]] - Go configuration with fangs
-	- [[https://github.com/square/keywhiz][keywhiz]] - A system for distributing and managing secrets
-	- [[https://github.com/standardebooks/tools][tools]] - The Standard Ebooks toolset for producing our ebook files.
-	- [[https://github.com/stark/Color-Scripts][Color-Scripts]] - User contributed color scripts
-	- [[https://github.com/stedolan/jq][jq]] - Command-line JSON processor
-	- [[https://github.com/stewartmcgown/uds][uds]] - Unlimited Drive Storage by splitting binary files into base64
-	- [[https://github.com/sunainapai/makesite][makesite]] - Simple, lightweight, and magic-free static site/blog generator for Python coders
-	- [[https://github.com/sustrik/uxy][uxy]] - UXY: Adding structure to the UNIX tools
-	- [[https://github.com/swanson/stringer][stringer]] - A self-hosted, anti-social RSS reader.
-	- [[https://github.com/swaywm/sway][sway]] - i3-compatible Wayland compositor
-	- [[https://github.com/syncthing/syncthing][syncthing]] - Open Source Continuous File Synchronization
-	- [[https://github.com/tadfisher/pass-otp][pass-otp]] - A pass extension for managing one-time-password (OTP) tokens
-	- [[https://github.com/talos-systems/talos][talos]] - A modern operating system for Kubernetes.
-	- [[https://github.com/tarsius/hl-todo][hl-todo]] - Highlight TODO keywords
-	- [[https://github.com/tesseract-ocr/tesseract][tesseract]] - Tesseract Open Source OCR Engine (main repository)
-	- [[https://github.com/theonlypwner/crc32][crc32]] - CRC32 tools: reverse, undo/rewind, and calculate hashes
-	- [[https://github.com/tj/git-extras - GIT utilities][git-extras - GIT utilities]] -- repo summary, repl, changelog population, author commit percentages and more
-	- [[https://github.com/tldr-pages/tldr][tldr]] - :books: Simplified and community-driven man pages
-	- [[https://github.com/tmk/tmk_keyboard][tmk_keyboard]] - Keyboard firmwares for Atmel AVR and Cortex-M
-	- [[https://github.com/tmux/tmux][tmux]] - tmux source code
-	- [[https://github.com/tomasr/molokai][molokai]] - Molokai color scheme for Vim
-	- [[https://github.com/trailofbits/mcsema][mcsema]] - Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
-	- [[https://github.com/trunkmaster/nextspace][nextspace]] - NeXTSTEP-like desktop environment for Linux
-	- [[https://github.com/tryolabs/requestium][requestium]] - Integration layer between Requests and Selenium for automation of web actions.
-	- [[https://github.com/uswds/uswds][uswds]] - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-	- [[https://github.com/utds3lab/multiverse][multiverse]] - A static binary rewriter that does not use heuristics
-	- [[https://github.com/vermiculus/magithub][magithub]] -- Magit-based interfaces to GitHub
-	- [[https://github.com/vimwiki/vimwiki][vimwiki]] - Personal Wiki for Vim
-	- [[https://github.com/vivien/i3blocks][i3blocks]] - A feed generator for text based status bars
-	- [[https://github.com/volatilityfoundation/volatility][volatility]] - An advanced memory forensics framework
-	- [[https://github.com/vtr0n/TelegramTUI][TelegramTUI]] - Telegram client on your terminal
-	- [[https://github.com/wetw0rk/Sickle][Sickle]] - Shellcode development tool
-	- [[https://github.com/will8211/unimatrix][unimatrix]] - Python script to simulate the display from \The Matrix\ in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running. Based on CMatrix.
-	- [[https://github.com/wtfutil/wtf][wtf]] - The personal information dashboard for your terminal.
-	- [[https://github.com/wting/autojump - A cd command that learns][autojump - A cd command that learns]] - easily navigate directories from the command line
-	- [[https://github.com/xonsh/xonsh][xonsh]] - Python-powered, cross-platform, Unix-gazing shell
-	- [[https://github.com/ytisf/theZoo][theZoo]] - A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
-	- [[https://github.com/zdharma/zplugin][zplugin]] - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services
+	* [[https://github.com/Jazqa/kwin-quarter-tiling][kwin-quarter-tiling]] - Improves the workflow by automatically tiling
+	  windows and creating virtual desktops
+	* [[https://github.com/MattPD/cpplinks][cpplinks]] - A categorized list of C++ resources.
+	* [[https://github.com/NVIDIA/vid2vid][vid2vid]] - Pytorch implementation of our method for high-resolution
+	  (e.g. 2048x1024) photorealistic video-to-video translation.
+	* [[https://github.com/Nexus-Mods/Vortex][Vortex]] - Vortex Development
+	* [[https://github.com/Nukesor/sticker-finder][sticker-finder]] - A telegram bot for searching all the stickers (just
+	  like @gif).
+	* [[https://github.com/Pagedraw/pagedraw][pagedraw]] - a UI builder for React web apps
+	* [[https://github.com/RomuloOliveira/commit-messages-guide][commit-messages-guide]] - A guide to understand the importance of commit
+	  messages and how to write them well
+	* [[https://github.com/Ruin0x11/intellij-lsp-server][intellij-lsp-server]] - Exposes IntelliJ IDEA features through the Language
+	  Server Protocol.
+	* [[https://github.com/Siderus/Orion][Orion]] - [Moved to Gitlab] Easy to Use, Inter Planetary File System (IPFS)
+	  desktop client
+	* [[https://github.com/Swordfish90/cool-retro-term][cool-retro-term]] - A good looking terminal emulator which mimics the old
+	  cathode display...
+	* [[https://github.com/TranslucentTB/TranslucentTB][TranslucentTB]] - A lightweight utility that makes the Windows taskbar
+	  translucent/transparent.
+	* [[https://github.com/Tympan/Tympan_Library][Tympan_Library]] - Arduino/Teensy Library for Tympan Open Source Hearing Aid
+	* [[https://github.com/USArmyResearchLab/Dshell][Dshell]] - Dshell is a network forensic analysis framework.
+	* [[https://github.com/Veil-Framework/Veil][Veil]] - Veil 3.1.X (Check version info in Veil at runtime)
+	* [[https://github.com/Yubico/yubioath-desktop][yubioath-desktop]] - Yubico Authenticator for Desktop (Windows, macOS and
+	  Linux)
+	* [[https://github.com/achael/eht-imaging][eht-imaging]] - Imaging, analysis, and simulation software for radio
+	  interferometry
+	* [[https://github.com/agronholm/typeguard][typeguard]] - Run-time type checker for Python
+	* [[https://github.com/ahmetaa/zemberek-nlp][zemberek-nlp]] - NLP tools for Turkish.
+	* [[https://github.com/akavel/up][up]] - Ultimate Plumber is a tool for writing Linux pipes with instant live
+	  preview
+	* [[https://github.com/alexmojaki/birdseye][birdseye]] - Graphical Python debugger which lets you easily view the values
+	  of all evaluated expressions
+	* [[https://github.com/amix/vimrc][vimrc]] - The ultimate Vim configuration: vimrc
+	* [[https://github.com/anishathalye/dotbot][dotbot]] - A tool that bootstraps your dotfiles
+	* [[https://github.com/artf/grapesjs][grapesjs]] - Free and Open source Web Builder Framework. Next generation
+	  tool for building templates without coding
+	* [[https://github.com/arvidn/libtorrent][libtorrent]] - an efficient feature complete C++ bittorrent implementation
+	* [[https://github.com/asciinema/asciinema][asciinema]] - Terminal session recorder 📹
+	* [[https://github.com/ashnkumar/sketch-code][sketch-code]] - Keras model to generate HTML code from hand-drawn website
+	  mockups. Implements an image captioning architecture to drawn source
+	  images.
+	* [[https://github.com/atlas-engineer/next - Next Browser][next - Next Browser]] - Be Productive.
+	* [[https://github.com/balena-io/etcher][etcher]] - Flash OS images to SD cards & USB drives, safely and easily.
+	* [[https://github.com/beetbox/beets][beets]] - music library manager and MusicBrainz tagger
+	* [[https://github.com/berzerk0/Probable-Wordlists][Probable-Wordlists]] - make sure your passwords aren't popular!
+	* [[https://github.com/bettercap/bettercap][bettercap]] - The Swiss Army knife for 802.11, BLE and Ethernet networks
+	  reconnaissance and MITM attacks.
+	* [[https://github.com/bloom42/rocket][rocket]] - Automated software delivery as fast and easy as possible
+	* [[https://github.com/boot-clj/boot][boot]] - Build tooling for Clojure.
+	* [[https://github.com/borgbackup/borg][borg]] - Deduplicating archiver with compression and authenticated
+	  encryption.
+	* [[https://github.com/brentvollebregt/auto-py-to-exe][auto-py-to-exe]] - Converts .py to .exe using a simple graphical interface
+	* [[https://github.com/brookhong/Surfingkeys][Surfingkeys]] - Map your keys for web surfing, expand your browser with
+	  javascript and keyboard.
+	* [[https://github.com/catchorg/Catch2][Catch2]] - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD using C++11, C++14, C++17 and later (or C++03 on the
+	  Catch1.x branch)
+	* [[https://github.com/cea-sec/Sibyl][Sibyl]] - A Miasm2 based function divination.
+	* [[https://github.com/cfenollosa/os-tutorial][os-tutorial]] - How to create an OS from scratch
+	* [[https://github.com/cfpb/clouseau][clouseau]] - Search your repository's git history for undesirable text
+	  patterns such as passwords, ssh keys and othe personal identifiable
+	  information
+	* [[https://github.com/chrissimpkins/codeface][codeface]] - Typefaces for source code beautification
+	* [[https://github.com/chubin/cheat.sh][cheat.sh]] - the only cheat sheet you need
+	* [[https://github.com/chyyran/seiri][seiri]] - 🎶 Opinionated, barebones music manager.
+	* [[https://github.com/crazyguitar/pysheeet][pysheeet]] - Python Cheat Sheet
+	* [[https://github.com/cspeterson/splatmoji][splatmoji]] - Quickly look up and input emoji and/or emoticons/kaomoji on
+	  your GNU/Linux desktop via pop-up menu.
+	* [[https://github.com/d3v1l401/FindCrypt-Ghidra][FindCrypt-Ghidra]] - IDA Pro's FindCrypt ported to Ghidra, with an updated
+	  and customizable signature database
+	* [[https://github.com/dbcli/pgcli][pgcli]] - Postgres CLI with autocompletion and syntax highlighting
+	* [[https://github.com/denysdovhan/spaceship-prompt][spaceship-prompt]] - A Zsh prompt for Astronauts
+	* [[https://github.com/digitalocean/netbox][netbox]] - IP address management (IPAM) and data center infrastructure
+	  management (DCIM) tool.
+	* [[https://github.com/distcc/distcc][distcc]] - distributed builds for C, C++ and Objective C
+	* [[https://github.com/docker/compose][compose]] - Define and run multi-container applications with Docker
+	* [[https://github.com/dsasmblr/game-hacking][game-hacking]] - Tutorials, tools, and more as related to reverse
+	  engineering video games.
+	* [[https://github.com/dubreuia/intellij-plugin-save-actions][intellij-plugin-save-actionsconfigurable]] - Supports configurable, Eclipse
+	  like, save actions, including "organize imports", "reformat code" and
+	  "rearrange code".
+	* [[https://github.com/elastic/curator][curator]] - Curator: Tending your Elasticsearch indices
+	* [[https://github.com/elastic/elasticsearch][elasticsearch]] - Open Source, Distributed, RESTful Search Engine
+	* [[https://github.com/elves/elvish][elvish]] - Friendly Interactive Shell and Expressive Programming Language
+	* [[https://github.com/erkin/ponysay][ponysay]] - Pony rewrite of cowsay.
+	* [[https://github.com/evgeni/qifi][qifi]] - pure JS WiFi QR Code Generator
+	* [[https://github.com/evilsocket/opensnitch][opensnitch]] - OpenSnitch is a GNU/Linux port of the Little Snitch
+	  application firewall
+	* [[https://github.com/excamera/alfalfa][alfalfa]] - Purely functional video codec, used for ExCamera and Salsify
+	* [[https://github.com/felixse/FluentTerminal][FluentTerminal]] - A Terminal Emulator based on UWP and web technologies.
+	* [[https://github.com/fennerm/flashfocus][flashfocus]] - Simple focus animations for tiling window managers.
+	* [[https://github.com/feramhq/transity][transity]] - Keep track of your 💵, 🕘, 🐖, 🐄, 🍻 on your command line
+	* [[https://github.com/froggey/Mezzano][Mezzano]] - An operating system written in Common Lisp
+	* [[https://github.com/gcla/termshark][termshark]] - A terminal UI for tshark, inspired by Wireshark
+	* [[https://github.com/gencebay/httplive][httplive]] - HTTP Request & Response Service, Mock HTTP
+	* [[https://github.com/getify/You-Dont-Know-JS][You-Dont-Know-JS]] - A book series on JavaScript. @YDKJS on twitter.
+	* [[https://github.com/ggreer/the_silver_searcher][the_silver_searcher]] - A code-searching tool similar to ack, but faster.
+	* [[https://github.com/git-tips/tips][tips]] - Most commonly used git tips and tricks.
+	* [[https://github.com/gitextensions/gitextensions][gitextensions]] - Git Extensions is a standalone UI tool for managing git
+	  repositories. It also integrates with Windows Explorer and Microsoft
+	  Visual Studio (2015/2017/2019).
+	* [[https://github.com/gnotclub/xst][xst]] - st fork that uses Xresources and some pretty good patches
+	* [[https://github.com/go-task/task][task]] - A task runner / simpler Make alternative written in Go
+	* [[https://github.com/goatfungus/NMSSaveEditor - No Man's Sky][NMSSaveEditor - No Man's Sky]] - Save Editor
+	* [[https://github.com/golang/go][go]] - The Go programming language
+	* [[https://github.com/google/autofdo][autofdo]] - AutoFDO
+	* [[https://github.com/google/binexport][binexport]] - An IDA Pro plugin for exporting disassemblies into Protocol
+	  Buffers and to BinNavi databases
+	* [[https://github.com/google/code-prettify][code-prettify]] - An embeddable script that makes source-code snippets in
+	  HTML prettier.
+	* [[https://github.com/google/filament][filament]] - Filament is a real-time physically based rendering engine for
+	  Android, iOS, Windows, Linux, macOS and WASM/WebGL
+	* [[https://github.com/google/flatbuffers][flatbuffers]] - Memory Efficient Serialization Library
+	* [[https://github.com/google/googletest - Googletest][googletest - Googletest]] - Google Testing and Mocking Framework
+	* [[https://github.com/google/grumpy][grumpy]] - Grumpy is a Python to Go source code transcompiler and runtime.
+	* [[https://github.com/google/logger][logger]] - Cross platform Go logging library.
+	* [[https://github.com/google/python-fire][python-fire]] - Python Fire is a library for automatically generating
+	  command line interfaces (CLIs) from absolutely any Python object.
+	* [[https://github.com/google/pytruth][pytruth]] - Assertion framework for Python unit tests
+	* [[https://github.com/google/sandboxed-api][sandboxed-api]] - Sandboxed API automatically generates sandboxes for C/C++
+	  libraries
+	* [[https://github.com/google/sanitizers][sanitizers]] - AddressSanitizer, ThreadSanitizer, MemorySanitizer
+	* [[https://github.com/google/styleguide][styleguide]] - Style guides for Google-originated open-source projects
+	* [[https://github.com/google/truth][truth]] - Fluent assertions for Java
+	* [[https://github.com/gynvael/iface][iface]] - Rather bad Windows/Linux RPC interface specialized for a
+	  Windows-host/Linux-guest configuration.
+	* [[https://github.com/haskellcamargo/sclack][sclack]] - The best CLI client for Slack, because everything is terrible!
+	* [[https://github.com/helm/helm][helm]] - The Kubernetes Package Manager
+	* [[https://github.com/huge-success/sanic][sanic]] - Async Python 3.6+ web server/framework | Build fast. Run fast.
+	* [[https://github.com/hughsie/fwupd][fwupd]] - A simple daemon to allow session software to update firmware
+	* [[https://github.com/i-tu/Hasklig - Hasklig][Hasklig - Hasklig]] - a code font with monospaced ligatures
+	* [[https://github.com/intel-go/bytebuf][bytebuf]] - Example of how CL133375 can be utilized to mitigate Go escape
+	  analysis limitations.
+	* [[https://github.com/intel/acat][acat]] - Assistive Context-Aware Toolkit (ACAT)
+	* [[https://github.com/iridakos/duckrails][duckrails]] - Development tool to mock API endpoints quickly and easily
+	  (docker image included)
+	* [[https://github.com/iridakos/elman][elman]] - Full text searching Linux man pages with Elasticsearch
+	* [[https://github.com/iridakos/goto][goto]] - A shell utility to quickly navigate to aliased directories with
+	  autocomplete
+	* [[https://github.com/isacikgoz/gitbatch][gitbatch]] - manage your git repositories in one place
+	* [[https://github.com/j3ssie/Osmedeus][Osmedeus]] - Fully automated offensive security tool for reconnaissance and
+	  vulnerability scanning
+	* [[https://github.com/jaakkopasanen/AutoEq][AutoEq]] - Automatic headphone equalization from frequency responses
+	* [[https://github.com/jakubroztocil/httpie][httpie]] - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP
+	  client – user-friendly curl alternative with intuitive UI, JSON support,
+	  syntax highlighting, wget-like downloads, extensions, etc.
+	  https://twitter.com/clihttp
+	* [[https://github.com/jarun/Buku][Buku]] - Browser-independent bookmark manager
+	* [[https://github.com/jarun/bcal][bcal]] - Storage and general-purpose calculator
+	* [[https://github.com/jarun/ddgr][ddgr]] - DuckDuckGo from the terminal
+	* [[https://github.com/jarun/googler][googler]] - Google from the terminal
+	* [[https://github.com/jarun/imgp][imgp]] - High-performance batch image resizer & rotator
+	* [[https://github.com/jarun/nnn][nnn]] - Snappy file manager for the ninjas!
+	* [[https://github.com/jarun/pdd][pdd]] - Tiny date, time diff calculator with timers
+	* [[https://github.com/jaypipes/ghw][ghw]] - Golang hardware discovery/inspection library
+	* [[https://github.com/jgm/gitit][gitit]] - A wiki using HAppS, pandoc, and git
+	* [[https://github.com/jgonggrijp/pip-review][pip-review]] - A tool to keep track of your Python package updates.
+	* [[https://github.com/jlevy/the-art-of-command-line][the-art-of-command-line]] - Master the command line, in one page
+	* [[https://github.com/johannesjo/super-productivity][super-productivity]] - To Do List / Time Tracker with Jira
+	  Integration. Makes you super productive!
+	* [[https://github.com/johnkerl/miller][miller]] - Miller is like awk, sed, cut, join, and sort for name-indexed
+	  data such as CSV, TSV, and tabular JSON
+	* [[https://github.com/jonas/tig][tig]] - Text-mode interface for git
+	* [[https://github.com/k4m4/terminals-are-sexy][terminals-are-sexy]] - 💥 A curated list of Terminal frameworks, plugins &
+	  resources for CLI lovers.
+	* [[https://github.com/k88hudson/git-flight-rules][git-flight-rules]] - Flight rules for git
+	* [[https://github.com/karansthr/Playlist-Length][Playlist-Length]] - A simple command line tool to get length of all the
+	  video and/or audio files in a directory and its sub-directories
+	  recursively
+	* [[https://github.com/kcmerrill/alfred][alfred]] - (v0.2) Even Batman needs a little help. Task
+	  runner. Automator. Build system.
+	* [[https://github.com/kdeloach/workman][workman]] - Workman keyboard layout
+	* [[https://github.com/kennethreitz/legit][legit]] - Git for Humans, Inspired by GitHub for Mac™.
+	* [[https://github.com/keraf/NoCoin][NoCoin]] - No Coin is a tiny browser extension aiming to block coin miners
+	  such as Coinhive.
+	* [[https://github.com/kiibohd/controller][controller]] - Kiibohd Controller
+	* [[https://github.com/kiibohd/kll][kll]] - KLL Compiler
+	* [[https://github.com/kitao/pyxel][pyxel]] - A retro game engine for Python
+	* [[https://github.com/koalaman/shellcheck][shellcheck]] - ShellCheck, a static analysis tool for shell scripts
+	* [[https://github.com/laurent22/joplin - Joplin][joplin - Joplin]] - a note taking and to-do application with synchronization
+	  capabilities for Windows, macOS, Linux, Android and iOS. Forum:
+	  https://discourse.joplinapp.org/
+	* [[https://github.com/longld/peda - PEDA][peda - PEDA]] - Python Exploit Development Assistance for GDB
+	* [[https://github.com/lupoDharkael/flameshot][flameshot]] - Powerful yet simple to use screenshot software
+	* [[https://github.com/magefile/mage][mage]] - a Make/rake-like build tool using Go
+	* [[https://github.com/maharmstone/btrfs][btrfs]] - WinBtrfs
+	* [[https://github.com/materye/poormanswiki][poormanswiki]] - A simple offline Wiki using Chromium and Markdown Viewer.
+	* [[https://github.com/mayswind/AriaNg][AriaNg]] - AriaNg, a modern web frontend making aria2 easier to use.
+	* [[https://github.com/mbusb/multibootusb][multibootusb]] - Create multiboot live Linux on a USB disk...
+	* [[https://github.com/meskarune/i3lock-fancy][i3lock-fancy]] - i3lock script that takes a screenshot of the desktop, blurs
+	  the background and adds a lock icon and text
+	* [[https://github.com/mesonbuild/meson][meson]] - The Meson Build System
+	* [[https://github.com/mh21/i3-renameworkspaces][i3-renameworkspaces]] - Rename i3 workspaces to contain the names of the
+	  programs on them.
+	* [[https://github.com/mhinz/vim-signify][vim-signify]] - Show a diff using Vim its sign column.
+	* [[https://github.com/michael-lazar/rtv][rtv]] - Browse Reddit from your terminal
+	* [[https://github.com/micropython/micropython - MicroPython][micropython - MicroPython]] - a lean and efficient Python implementation for
+	  microcontrollers and constrained systems
+	* [[https://github.com/microsoft/PowerToys][PowerToys]] - Windows system utilities to maximize productivity
+	* [[https://github.com/microsoft/WSL-DistroLauncher][WSL-DistroLauncher]] - Sample/reference launcher app for WSL distro
+	  Microsoft Store packages.
+	* [[https://github.com/microsoft/frontend-bootcamp][frontend-bootcamp]] - Frontend Workshop from HTML/CSS/JS to
+	  TypeScript/React/Redux
+	* [[https://github.com/microsoft/pyright][pyright]] - Static type checker for Python
+	* [[https://github.com/microsoft/terminal][msterminal]] - The new Windows Terminal, and the original Windows console
+	  host all in the same place!
+	* [[https://github.com/moisesmcardona/GoogleDriveUploadTool][GoogleDriveUploadTool]] - A tool for Windows to upload and manage files in
+	  Google Drive. It resumes uploads in case of an error or failure. Perfect
+	  for uploading large files or if your connection is unstable.
+	* [[https://github.com/moldabekov/virusgotal][virusgotal]] - VirusTotal zero dependency command line client. Hassle
+	  free file/URL scanning from CLI
+	* [[https://github.com/monicahq/monica][monica]] - Personal CRM. Remember everything about your friends and family.
+	* [[https://github.com/morhetz/gruvbox][gruvbox]] - Retro groove color scheme for Vim
+	* [[https://github.com/mrkkrp/modalka][modalka]] - Easily introduce native modal editing of your own design
+	* [[https://github.com/mzucker/noteshrink][noteshrink]] - Convert scans of handwritten notes to beautiful, compact PDFs
+	* [[https://github.com/nasa-jpl/open-source-rover][open-source-rover]] - A build-it-yourself, 6-wheel rover based on the rovers
+	  on Mars!
+	* [[https://github.com/nccgroup/freddy][freddy]] - Automatically identify deserialisation issues in Java and .NET
+	  applications by using active and passive scans
+	* [[https://github.com/newsboat/newsboat][newsboat]] - An RSS/Atom feed reader for text terminals
+	* [[https://github.com/nglgzz/albert-plugins][albert-plugins]] - Plugins for albert launcher
+	* [[https://github.com/nielsmadan/harlequin][harlequin]] - Dark, high contrast gvim colorscheme inspired by molokai and
+	  bad wolf.
+	* [[https://github.com/nmap/nmap][nmap]] - the Network Mapper. Github mirror of official SVN repository.
+	* [[https://github.com/nsacyber/WALKOFF][WALKOFF]] - A flexible, easy to use, automation framework allowing users to
+	  integrate their capabilities and devices to cut through the repetitive,
+	  tedious tasks slowing them down. #nsacyber
+	* [[https://github.com/numba/numba][numba]] - NumPy aware dynamic Python compiler using LLVM
+	* [[https://github.com/nvbn/thefuck][thefuck]] - Magnificent app which corrects your previous console command.
+	* [[https://github.com/oclif/oclif][oclif]] - Node.js Open CLI Framework. Built with by Heroku.
+	* [[https://github.com/ocornut/imgui][imgui]] - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for
+	  C++ with minimal dependencies
+	* [[https://github.com/octobanana/fltrdr][fltrdr]] - A TUI text reader for the terminal.
+	* [[https://github.com/octobanana/peaclock][peaclock]] - A responsive and customizable clock, timer, and stopwatch for
+	  the terminal.
+	* [[https://github.com/ogham/exa][exa]] - A modern version of ‘ls’.
+	* [[https://github.com/oh-my-fish/oh-my-fish][oh-my-fish]] - The Fish Shell Framework
+	* [[https://github.com/olafhartong/ThreatHunting][ThreatHunting]] - A Splunk app mapped to MITRE ATT&CK to guide your threat
+	  hunts
+	* [[https://github.com/olafhartong/sysmon-modular][sysmon-modular]] - A repository of sysmon configuration modules
+	* [[https://github.com/olivierkes/manuskript][manuskript]] - A open-source tool for writers
+	* [[https://github.com/oltolm/scoop-nonportable][scoop-nonportable]] - Scoop bucket for nonportable apps
+	* [[https://github.com/opendtrace/opendtrace][opendtrace]] - Code for the cross platform, single source, OpenDTrace
+	  implementation
+	* [[https://github.com/oxequa/realize][realize]] - Realize is the #1 Golang Task Runner which enhance your workflow
+	  by automating the most common tasks and using the best performing Golang
+	  live reloading.
+	* [[https://github.com/p-gen/smenu][smenu]] - Terminal utility that reads words from standard input or from a
+	  file and creates an interactive selection window just below the
+	  cursor. The selected word(s) are sent to standard output for further
+	  processing.
+	* [[https://github.com/palantir/python-language-server][python-language-server]] - An implementation of the Language Server Protocol
+	  for Python
+	* [[https://github.com/parcel-bundler/parcel][parcel]] - Blazing fast, zero configuration web application bundler
+	* [[https://github.com/pedronauck/docz][docz]] - It has never been so easy to document your things!
+	* [[https://github.com/philc/vimium][vimium]] - The hacker's browser.
+	* [[https://github.com/pi-hole/pi-hole][pi-hole]] - A black hole for Internet advertisements
+	* [[https://github.com/pipxproject/pipx][pipx]] - Execute binaries from Python packages in isolated environments
+	* [[https://github.com/plotly/dash][dash]] - Analytical Web Apps for Python. No JavaScript Required.
+	* [[https://github.com/powerline/fonts][powerlinefonts]] - Patched fonts for Powerline users.
+	* [[https://github.com/pwaller/pyfiglet][pyfiglet]] - An implementation of figlet written in Python
+	* [[https://github.com/pypa/pipenv][pipenv]] - Python Development Workflow for Humans.
+	* [[https://github.com/python-pillow/Pillow][Pillow]] - The friendly PIL fork (Python Imaging Library)
+	* [[https://github.com/pytorch/pytorch][pytorch]] - Tensors and Dynamic neural networks in Python with strong GPU
+	  acceleration
+	* [[https://github.com/qmk/qmk_firmware][qmk_firmware]] - keyboard controller firmware for Atmel AVR and ARM USB
+	  families
+	* [[https://github.com/qutebrowser/qutebrowser][qutebrowser]] - A keyboard-driven, vim-like browser based on PyQt5.
+	* [[https://github.com/ray-project/ray][ray]] - A fast and simple framework for building and running distributed
+	  applications.
+	* [[https://github.com/rdp/screen-capture-recorder-to-video-windows-free][screen-capture-recorder-to-video-windows-free]] - a free open source windows
+	  \screen capture\ device and recorder (also allows VLC/ffmpeg and others to
+	  capture/stream desktop/audio)
+	* [[https://github.com/reactos/reactos][reactos]] - A free Windows-compatible Operating System
+	* [[https://github.com/realpython/python-guide][python-guide]] - Python best practices guidebook, written for humans.
+	* [[https://github.com/reedes/vim-pencil][vim-pencil]] - Rethinking Vim as a tool for writing
+	* [[https://github.com/rek7/mXtract - mXtract][mXtract - mXtract]] - Offensive Memory Extractor & Analyzer
+	* [[https://github.com/rgburke/grv][grv]] - GRV is a terminal interface for viewing git repositories
+	* [[https://github.com/rhardih/ekill][ekill]] - Chrome extension to nuke annoying elements in a web page
+	* [[https://github.com/rhysd/NyaoVim][NyaoVim]] - Web-enhanced Extensible Neovim Frontend
+	* [[https://github.com/rhysd/git-messenger.vim][git-messenger.vim]] - Vim and Neovim plugin to reveal the commit messages
+	  under the cursor
+	* [[https://github.com/roosta/i3wsr][i3wsr]] - Change i3-wm workspace names based on content
+	* [[https://github.com/rsc/2fa][2fa]] - Two-factor authentication on the command line
+	* [[https://github.com/rupa/z - z][z - z]] - jump around
+	* [[https://github.com/ryanoasis/vim-devicons][vim-devicons]] - Adds file type glyphs/icons to popular Vim
+	  plugins: NERDTree, vim-airline, Powerline, Unite, vim-startify and more
+	* [[https://github.com/s0md3v/Hash-Buster][Hash-Buster]] - Crack hashes in seconds.
+	* [[https://github.com/s0md3v/Photon][Photon]] - Incredibly fast crawler designed for OSINT.
+	* [[https://github.com/s0md3v/XSStrike][XSStrike]] - Most advanced XSS scanner.
+	* [[https://github.com/s3team/uroboros][uroboros]] - Infrastructure for Reassembleable Disassembling and
+	  Transformation
+	* [[https://github.com/sabof/project-explorer][project-explorer]] - A project explorer sidebar
+	* [[https://github.com/satwikkansal/wtfpython][wtfpython]] - A collection of surprising Python snippets and lesser-known
+	  features.
+	* [[https://github.com/scanmem/scanmem][scanmem]] - memory scanner for Linux
+	* [[https://github.com/scrapy/scrapy][scrapy]] - Scrapy, a fast high-level web crawling & scraping framework for
+	  Python.
+	* [[https://github.com/seagle0128/doom-modeline][doom-modeline]] - A fancy and fast mode-line inspired by minimalism design.
+	* [[https://github.com/secdev/scapy][scapy]] - Scapy: the Python-based interactive packet manipulation program &
+	  library. Supports Python 2 & Python 3.
+	* [[https://github.com/semantic-release/semantic-release][semantic-release]] - Fully automated version management
+	  and package publishing
+	* [[https://github.com/sharkdp/bat][bat]] - A cat(1) clone with wings.
+	* [[https://github.com/sharkdp/fd][fd]] - A simple, fast and user-friendly alternative to 'find'
+	* [[https://github.com/shobrook/rebound][rebound]] - Command-line tool that instantly fetches Stack Overflow results
+	  when an exception is thrown
+	* [[https://github.com/sinclairtarget/um][um]] - Create and maintain your own man pages so you can remember how to do
+	  stuff
+	* [[https://github.com/sjl/badwolf][badwolf]] - A Vim color scheme.
+	* [[https://github.com/skvark/opencv-python][opencv-python]] - This repository generates precompiled opencv-python,
+	  opencv-python-headless, opencv-contrib-python and
+	  opencv-contrib-python-headless packages.
+	* [[https://github.com/skywind3000/z.lua][z.lua]] - A new cd command that helps you navigate faster by learning your
+	  habits
+	* [[https://github.com/snare/voltron][voltron]] - A hacky debugger UI for hackers
+	* [[https://github.com/snipsco/snips-nlu][snips-nlu]] - Snips Python library to extract meaning from text
+	* [[https://github.com/so-fancy/diff-so-fancy][diff-so-fancy]] - Good-lookin' diffs. Actually… nah… The best-lookin'
+	  diffs.
+	* [[https://github.com/socialcopsdev/camelot][camelot]] - Camelot: PDF Table Extraction for Humans
+	* [[https://github.com/source-foundry/Hack][Hack]] - A typeface designed for source code
+	* [[https://github.com/spf13/cobra][cobra]] - A Commander for modern Go CLI interactions
+	* [[https://github.com/spf13/fsync][fsync]] - Keeps files or directories in sync.
+	* [[https://github.com/spf13/spf13-vim][spf13-vim]] - The ultimate vim distribution
+	* [[https://github.com/spf13/viper][viper]] - Go configuration with fangs
+	* [[https://github.com/square/keywhiz][keywhiz]] - A system for distributing and managing secrets
+	* [[https://github.com/standardebooks/tools][tools]] - The Standard Ebooks toolset for producing our ebook files.
+	* [[https://github.com/stark/Color-Scripts][Color-Scripts]] - User contributed color scripts
+	* [[https://github.com/stedolan/jq][jq]] - Command-line JSON processor
+	* [[https://github.com/stewartmcgown/uds][uds]] - Unlimited Drive Storage by splitting binary files into base64
+	* [[https://github.com/sunainapai/makesite][makesite]] - Simple, lightweight, and magic-free static site/blog generator
+	  for Python coders
+	* [[https://github.com/sustrik/uxy][uxy]] - UXY: Adding structure to the UNIX tools
+	* [[https://github.com/swanson/stringer][stringer]] - A self-hosted, anti-social RSS reader.
+	* [[https://github.com/swaywm/sway][sway]] - i3-compatible Wayland compositor
+	* [[https://github.com/syncthing/syncthing][syncthing]] - Open Source Continuous File Synchronization
+	* [[https://github.com/tadfisher/pass-otp][pass-otp]] - A pass extension for managing one-time-password (OTP) tokens
+	* [[https://github.com/talos-systems/talos][talos]] - A modern operating system for Kubernetes.
+	* [[https://github.com/tarsius/hl-todo][hl-todo]] - Highlight TODO keywords
+	* [[https://github.com/tesseract-ocr/tesseract][tesseract]] - Tesseract Open Source OCR Engine (main repository)
+	* [[https://github.com/theonlypwner/crc32][crc32]] - CRC32 tools: reverse, undo/rewind, and calculate hashes
+	* [[https://github.com/tj/git-extras - GIT utilities][git-extras - GIT utilities]] -- repo summary, repl, changelog population,
+	  author commit percentages and more
+	* [[https://github.com/tldr-pages/tldr][tldr]] - Simplified and community-driven man pages
+	* [[https://github.com/tmk/tmk_keyboard][tmk_keyboard]] - Keyboard firmwares for Atmel AVR and Cortex-M
+	* [[https://github.com/tmux/tmux][tmux]] - tmux source code
+	* [[https://github.com/tomasr/molokai][molokai]] - Molokai color scheme for Vim
+	* [[https://github.com/trailofbits/mcsema][mcsema]] - Framework for lifting x86, amd64, and aarch64 program binaries to
+	  LLVM bitcode
+	* [[https://github.com/trunkmaster/nextspace][nextspace]] - NeXTSTEP-like desktop environment for Linux
+	* [[https://github.com/tryolabs/requestium][requestium]] - Integration layer between Requests and Selenium for
+	  automation of web actions.
+	* [[https://github.com/uswds/uswds][uswds]] - The U.S. Web Design System helps the federal government build
+	  fast, accessible, mobile-friendly websites.
+	* [[https://github.com/utds3lab/multiverse][multiverse]] - A static binary rewriter that does not use heuristics
+	* [[https://github.com/vermiculus/magithub][magithub]] -- Magit-based interfaces to GitHub
+	* [[https://github.com/vivien/i3blocks][i3blocks]] - A feed generator for text based status bars
+	* [[https://github.com/volatilityfoundation/volatility][volatility]] - An advanced memory forensics framework
+	* [[https://github.com/vtr0n/TelegramTUI][TelegramTUI]] - Telegram client on your terminal
+	* [[https://github.com/wetw0rk/Sickle][Sickle]] - Shellcode development tool
+	* [[https://github.com/will8211/unimatrix][unimatrix]] - Python script to simulate the display from \The Matrix\ in
+	  terminal. Uses half-width katakana unicode characters by default, but can
+	  use custom character sets. Accepts keyboard controls while running. Based
+	  on CMatrix.
+	* [[https://github.com/wtfutil/wtf][wtf]] - The personal information dashboard for your terminal.
+	* [[https://github.com/wting/autojump - A cd command that learns][autojump - A cd command that learns]] - easily navigate directories from the
+	  command line
+	* [[https://github.com/xonsh/xonsh][xonsh]] - Python-powered, cross-platform, Unix-gazing shell
+	* [[https://github.com/ytisf/theZoo][theZoo]] - A repository of LIVE malwares for your own joy and
+	  pleasure. theZoo is a project created to make the possibility of malware
+	  analysis open and available to the public.
+	* [[https://github.com/zdharma/zplugin][zplugin]] - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services
