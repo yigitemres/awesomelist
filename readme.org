@@ -173,6 +173,8 @@
 	  capabilities of Intel AMT
 	- [[https://github.com/eteran/edb-debugger][edb-debugger]] - edb is a cross platform AArch32/x86/x86-64 debugger.
 	- [[https://github.com/EmpireProject/Empire][Empire]] - Empire is a PowerShell and Python post-exploitation agent.
+	- [[tps://github.com/frida/frida][frida]] - Dynamic instrumentation toolkit for developers, reverse-engineers,
+	  and security researchers.
 	- [[https://github.com/Manisso/fsociety][fsociety]] - fsociety Hacking Tools Pack – A Penetration Testing Framework
 	- [[https://github.com/cs01/gdbgui][gdbgui]] - Browser-based frontend to gdb (gnu debugger). Add breakpoints,
 	  view the stack, visualize data structures, and more in C, C++, Go, Rust,
@@ -207,6 +209,8 @@
 	- [[https://github.com/gentilkiwi/mimikatz][mimikatz]] - A little tool to play with Windows security
 	- [[https://github.com/mitmproxy/mitmproxy][mitmproxy]] - An interactive TLS-capable intercepting HTTP proxy for
 	  penetration testers and software developers.
+	- [[https://github.com/samratashok/nishang][nishang]] - Offensive PowerShell for red team, penetration testing and
+	  offensive security.
 	- [[https://github.com/hasherezade/pe-sieve][pe-sieve]] - Scans a given process. Recognizes and dumps a variety of
 	  potentially malicious implants (replaced/injected PEs, shellcodes, hooks,
 	  in-memory patches).
