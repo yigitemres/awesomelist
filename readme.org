@@ -1,4 +1,6 @@
 #+TODO: TODO(t) ALL(a) INSTALL(i) CONFIG(c) ADDLIST(l) | DONE(d)
+#+STARTUP: fold
+
 * Awesome List
 ** Emacs
 *** Packages
@@ -403,7 +405,7 @@
 
 ** ICANTREMEMBER
    [[https://github.com/CraneStation/wasi][wasi]] - WASI overview
-
+   [[HttpsLcamtufCoredumpCxGcnc][Guerrilla Guide To Cnc Machining, Mold Making, And Resin Casting]] - Home manufacturing tutorial for robot builders, model makers, and other hobbyists.
 ** Awesome List(Recursion All Day)
    - [[https://github.com/Kickball/awesome-selfhosted][awesome-selfhosted]] - This is a list of Free Software network services and
 	 web applications which can be hosted locally. Selfhosting is the process of
@@ -442,7 +444,7 @@
    - [[https://github.com/yoloseem/awesome-sphinxdoc][awesome-sphinxdoc]] - A curated list of awesome tools for Sphinx Python
 	 Documentation Generator
 
-* ADDLIST Not Edited
+* ADDLIST COMMENT Not Edited
 
 	* [[https://github.com/Jazqa/kwin-quarter-tiling][kwin-quarter-tiling]] - Improves the workflow by automatically tiling
 	  windows and creating virtual desktops
